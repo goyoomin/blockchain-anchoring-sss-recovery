@@ -1,0 +1,5 @@
+item,classification,choice
+SSS library,CONTROLLED_ASSUMPTION,secrets.js-grempe 2.0.0
+Share serialization,CONTROLLED_ASSUMPTION,Canonical encoded string UTF-8
+Compiler/optimizer,CONTROLLED_ASSUMPTION,solc 0.8.24 / disabled
+Deployment gas,CONTROLLED_ASSUMPTION,Recorded separately

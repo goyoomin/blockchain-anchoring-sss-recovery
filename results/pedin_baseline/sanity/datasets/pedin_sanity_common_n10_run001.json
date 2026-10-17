@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "dataset_id": "pedin_sanity_common_n10_run001",
+  "grid_type": "COMMON_COMPARISON_GRID",
+  "n": 10,
+  "k": 6,
+  "synthetic_recovery_secret": "0xea5af402bd6dbfedf6185749013f1356b1053ce145ae3a43635b5ce8f8fd1b43",
+  "synthetic_recovery_address_pbk": "0xbBf2d71b49f6C2A5046dA7839f5787dc33361e75",
+  "shares": [
+    "801282b816fd4cf29acf16ab9aadde8709a48bdef0688a7772a2ac574e1e60fea2406a84b95e601a04fd1ab2761ef0ff6a8",
+    "802bd1a8a098d819f4b4085f5952da5ae1f01a19f67e0a2121544d9d32e29a92df83f1f70403025a2bfbbde49c9ac341008",
+    "8039dd04eeffa9dd0ad0c7bf2018947fd9c47a3cb20007ff3595ad0298c268cb7dd0b3031d2f5f1ffd21a6135a8249c23b3",
+    "804a61dec8d505f3da319296a8a28c021a28bde953b3a765231dfc43c5a0ce28f94acf287dbfb50b0fd274b48df6c6f55f8",
+    "8059db51d7a415e455b36bc145403d9ce4e7cd09dfbac909c3333cb423f3728e995dc7abb095a7907f4fc9c11707c3a1719",
+    "8061dbf8fb7fc3485753625ce0f0db220327d59f9da4fbd574822cb419206c9039d879085940f3b499261a10535708042fa",
+    "8072ef63bc94ee69bc7a4240eef5fa1ecc66eb2be590c4cb0c10c10e6fdd51606cb749a8fa0c86939faa9395b72ff8fde4b",
+    "808e9554b48b297b402f232e82c22f4e6e650e5876211613f3a7700515405cd92dad56ed93ff24f294825a78ae04ef90256",
+    "809e1436e1409edecca5f666ef5751ccfd8350da6bf11720d74ddf8f89396db2d28a099efc78ed493fc54b22220a93aedf0",
+    "80a546e861b90b7deeb8b1ffab2e901ff6f5b7bda8ac0b92ee177655abdd6bf1febaea4baf8335387f6feb71c406bb8b33d"
+  ],
+  "sss": {
+    "scheme": "SHAMIR_SECRET_SHARING",
+    "library": "secrets.js-grempe",
+    "library_version": "2.0.0",
+    "field_bits": 8,
+    "threshold_policy": "K_EQUALS_N_OVER_2_PLUS_1_FOR_EVEN_N",
+    "share_serialization": "CANONICAL_LIBRARY_ENCODED_STRING_UTF8"
+  },
+  "generated_at": "2026-08-11T16:55:58.193Z",
+  "synthetic_research_key": true,
+  "provenance": {
+    "baseline": "PEDIN_2023_PAPER_GUIDED_MERKLE_SHA256_SETUP",
+    "source": "independently generated for this controlled experiment",
+    "real_user_wallet": false,
+    "reused_from_frozen_main": false
+  },
+  "dataset_digest_sha256": "024f9b9c5c76311e2dc886898c1dfe8d135a3722c0896492f34cbba9191e1d87"
+}

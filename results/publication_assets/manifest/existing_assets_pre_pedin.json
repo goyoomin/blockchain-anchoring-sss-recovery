@@ -1,0 +1,643 @@
+{
+  "snapshot_version": "PRE_PEDIN_PUBLICATION_EXTENSION_V1",
+  "captured_at": "2026-08-11T17:41:34.535Z",
+  "prior_manifest_status": "VALID",
+  "prior_validation_status": "VALID",
+  "prior_figure_records": [
+    {
+      "figure_id": "figure1_gas_linear",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "c2db71688f10af612ec8f01024098654a0e3421784d05b2539db64ef277096ce",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_linear_single.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_linear_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_linear_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure1_gas_linear",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "c2db71688f10af612ec8f01024098654a0e3421784d05b2539db64ef277096ce",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_linear_double.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_linear_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_linear_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure1_gas_log",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "16e4fd05b7f1d92fc7e567cc021f716f04981b4d3dc9dc24847ea3d1608c2efb",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_log_single.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_log_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_log_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure1_gas_log",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "16e4fd05b7f1d92fc7e567cc021f716f04981b4d3dc9dc24847ea3d1608c2efb",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_log_double.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_log_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_log_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure2_recovery_time",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "393233e38c6333e29bd256eba8ce2e676088ab968675a06a917551472e8bfe8d",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure2_recovery_time_single.png",
+        "svg": "results/publication_assets/figures/svg/figure2_recovery_time_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure2_recovery_time_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure2_recovery_time",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "393233e38c6333e29bd256eba8ce2e676088ab968675a06a917551472e8bfe8d",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure2_recovery_time_double.png",
+        "svg": "results/publication_assets/figures/svg/figure2_recovery_time_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure2_recovery_time_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure3_transaction_count",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "e0c732cba2f127540e8596e695f55f71be457ce77514b18ddabe34729198626c",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure3_transaction_count_single.png",
+        "svg": "results/publication_assets/figures/svg/figure3_transaction_count_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure3_transaction_count_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure3_transaction_count",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "e0c732cba2f127540e8596e695f55f71be457ce77514b18ddabe34729198626c",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure3_transaction_count_double.png",
+        "svg": "results/publication_assets/figures/svg/figure3_transaction_count_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure3_transaction_count_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure4_gas_reduction",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "fd2a3d678047f331130f3fab9d9aa8a59dd3606f4d6c356b41604fe74f3e9cc4",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure4_gas_reduction_single.png",
+        "svg": "results/publication_assets/figures/svg/figure4_gas_reduction_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure4_gas_reduction_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure4_gas_reduction",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "fd2a3d678047f331130f3fab9d9aa8a59dd3606f4d6c356b41604fe74f3e9cc4",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure4_gas_reduction_double.png",
+        "svg": "results/publication_assets/figures/svg/figure4_gas_reduction_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure4_gas_reduction_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_full",
+      "role": "SUPPLEMENTARY",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 1250,
+      "png_dpi": 300,
+      "plotted_data_sha256": "1a65553f37f5cf080f334cad994c76ddb65e476a2f2767bc11be3e17da815879",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_full_single.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_full_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_full_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_full",
+      "role": "SUPPLEMENTARY",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1100,
+      "png_dpi": 300,
+      "plotted_data_sha256": "1a65553f37f5cf080f334cad994c76ddb65e476a2f2767bc11be3e17da815879",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_full_double.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_full_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_full_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_representative",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 1500,
+      "png_dpi": 300,
+      "plotted_data_sha256": "875a7ccb39cd11e5dadfa1d757ea8133a8a3f4b64eaccdb3de878824f61642e8",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_representative_single.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_representative_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_representative",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 900,
+      "png_dpi": 300,
+      "plotted_data_sha256": "875a7ccb39cd11e5dadfa1d757ea8133a8a3f4b64eaccdb3de878824f61642e8",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_representative_double.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_representative_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_double.pdf"
+      }
+    },
+    {
+      "figure_id": "appendix_figure_a_recovery_paired_delta",
+      "role": "SUPPLEMENTARY",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "ffb88d2b2ca3aa980ceddb2c2f200b7a2e2225b8f556bd4bc23f95bcffc56baa",
+      "files": {
+        "png": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_single.png",
+        "svg": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_single.pdf"
+      }
+    },
+    {
+      "figure_id": "appendix_figure_a_recovery_paired_delta",
+      "role": "SUPPLEMENTARY",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "ffb88d2b2ca3aa980ceddb2c2f200b7a2e2225b8f556bd4bc23f95bcffc56baa",
+      "files": {
+        "png": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_double.png",
+        "svg": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_double.pdf"
+      }
+    }
+  ],
+  "prior_table_records": [
+    {
+      "table_id": "table1_experimental_configuration",
+      "table_number": "Table 1",
+      "title": "Experimental Configuration",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table1_experimental_configuration.csv",
+        "markdown": "results/publication_assets/tables/md/table1_experimental_configuration.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table1_experimental_configuration.txt"
+      }
+    },
+    {
+      "table_id": "table2_anchoring_gas",
+      "table_number": "Table 2",
+      "title": "Cumulative Anchoring Gas Results",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table2_anchoring_gas.csv",
+        "markdown": "results/publication_assets/tables/md/table2_anchoring_gas.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table2_anchoring_gas.txt"
+      }
+    },
+    {
+      "table_id": "table3_recovery_time",
+      "table_number": "Table 3",
+      "title": "Counterbalanced Recovery Time Results",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table3_recovery_time.csv",
+        "markdown": "results/publication_assets/tables/md/table3_recovery_time.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table3_recovery_time.txt"
+      }
+    },
+    {
+      "table_id": "table4_transactions_feasibility",
+      "table_number": "Table 4",
+      "title": "Transaction Count and Execution Feasibility",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table4_transactions_feasibility.csv",
+        "markdown": "results/publication_assets/tables/md/table4_transactions_feasibility.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table4_transactions_feasibility.txt"
+      }
+    },
+    {
+      "table_id": "table5_recovery_components",
+      "table_number": "Table 5",
+      "title": "Representative Recovery Component Summary",
+      "role": "MAIN_TEXT",
+      "row_count": 6,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table5_recovery_components.csv",
+        "markdown": "results/publication_assets/tables/md/table5_recovery_components.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table5_recovery_components.txt"
+      }
+    },
+    {
+      "table_id": "table_s1_recovery_components_full",
+      "table_number": "Table S1",
+      "title": "Full Recovery Component Summary",
+      "role": "SUPPLEMENTARY",
+      "row_count": 14,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table_s1_recovery_components_full.csv",
+        "markdown": "results/publication_assets/tables/md/table_s1_recovery_components_full.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table_s1_recovery_components_full.txt"
+      }
+    }
+  ],
+  "protected_artifacts": [
+    {
+      "relative_path": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_double.pdf",
+      "size_bytes": 41044,
+      "sha256": "3dc82001f4ddd2ed52ae9f2b15290b01e9a96e581930ac255008df7830e789ef"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_single.pdf",
+      "size_bytes": 40504,
+      "sha256": "fb48c416222490d1432cec9a53862374453a7f8a87e315ca3c37285cdcf52cb1"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_linear_double.pdf",
+      "size_bytes": 54147,
+      "sha256": "0896077226f42dcf3ad95c4383a62953264022f8d9592d232fe49bbd1edde036"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_linear_single.pdf",
+      "size_bytes": 50418,
+      "sha256": "c758e534519575b5de0c9c62db5ed605dbc2923fc3fd706ba6dc9aa910b94e9e"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_log_double.pdf",
+      "size_bytes": 58576,
+      "sha256": "2fdaca4e560a64f283b242097298c582407d88991d6090599dd51ad98136f9c8"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_log_single.pdf",
+      "size_bytes": 53717,
+      "sha256": "9a456d73d16ba6d36073c400a53759b137f8f157f83be2de81c9a1a5e7e5f184"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure2_recovery_time_double.pdf",
+      "size_bytes": 67589,
+      "sha256": "e5187fb5896557b044fd2b200676d03fc43c9383483685961b8e659b4c23fcd7"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure2_recovery_time_single.pdf",
+      "size_bytes": 58400,
+      "sha256": "a2eb84f40ce30e9f44cb6aff46a8504cb0e8ac4db60931783c6ddee8e6966971"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure3_transaction_count_double.pdf",
+      "size_bytes": 50035,
+      "sha256": "2bad11dd9f1984e159870b404e1e82bc145f0566183647bfdc57a78a8b676d32"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure3_transaction_count_single.pdf",
+      "size_bytes": 46324,
+      "sha256": "5c421164d9fc048860ee203ea1b6d16b9b3c36f333a01012d58116e49cf20ba9"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure4_gas_reduction_double.pdf",
+      "size_bytes": 45435,
+      "sha256": "97360b6f11ccf0f33b5533f681a527c868d7a4695fc68a7f94d1da60f40f6a5e"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure4_gas_reduction_single.pdf",
+      "size_bytes": 45346,
+      "sha256": "bb8c735911480085677f2241360e5915aaded254609b24c5a9a4709ecc340003"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_full_double.pdf",
+      "size_bytes": 1444256,
+      "sha256": "de635cb60eb7865d575c03f8ea1f0cfe49d0bafd944d23736f3ab172a2acd286"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_full_single.pdf",
+      "size_bytes": 640918,
+      "sha256": "ee359ee7b9c54a9fc89ef11fdd0accdb3e28bb4a8b0412b71ec986e9c912a6a5"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_double.pdf",
+      "size_bytes": 596913,
+      "sha256": "eb74a844628918c7ce08398450df3c7d06cf9a55c0132a2360f01496220d9d88"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_single.pdf",
+      "size_bytes": 376179,
+      "sha256": "3ccb657e34ab80511be6aed1302f89e4fa7aef74db3ed65581dcd8c87d644b7d"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_double.png",
+      "size_bytes": 72095,
+      "sha256": "3fe86fb803010932b4b9c70739c2c0f8d3c7e0255c5ef2bd3af0cca1051aea70"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_single.png",
+      "size_bytes": 43196,
+      "sha256": "5fc3cb5db3c5d8e1028b1c0516d88810c8f2bbaa12a2a3893d89c6ce41bee232"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_linear_double.png",
+      "size_bytes": 82748,
+      "sha256": "7fc4e7f7e566f510d98aa4deebc220e99666bc28217a296d197eb4539415cfe4"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_linear_single.png",
+      "size_bytes": 49169,
+      "sha256": "8a0e3613d629f2f07fc41cba81b4933292e2c08853b31f3b6877208cc5eaeb20"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_log_double.png",
+      "size_bytes": 98206,
+      "sha256": "4c649c4fbe72c961ec4b58bc1e17f569675792017eddeea60fbae69a64e02acc"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_log_single.png",
+      "size_bytes": 60176,
+      "sha256": "da02a9b570e08205c5d8b427c19cbfe35e177a5e9d2c1f892ef8358d1408b0b9"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure2_recovery_time_double.png",
+      "size_bytes": 95879,
+      "sha256": "e741839054047a9e9907baf072f8ff1cf94948ed36cb1a7941fd59ea9fcb5dfe"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure2_recovery_time_single.png",
+      "size_bytes": 54569,
+      "sha256": "5247159f6107752491281c452ce9ff9a7a0386220b4ca74e1b159550807b8052"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure3_transaction_count_double.png",
+      "size_bytes": 78216,
+      "sha256": "b56515326fb1adfa9aa7d0e97cfd8f80d112d92d4cba175b6c07fa25b4ae4433"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure3_transaction_count_single.png",
+      "size_bytes": 47352,
+      "sha256": "1b82c6810a913fde75dfdd4c8193c566d48bd5abf55e7f39caff46bdd0547d48"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure4_gas_reduction_double.png",
+      "size_bytes": 92602,
+      "sha256": "ed9e4844d431e4f76ff3ce156439dd64410c9bf88565766343c657f28c1bb1b6"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure4_gas_reduction_single.png",
+      "size_bytes": 56526,
+      "sha256": "2fb88334bb1bb218a6edd7b452fb9a3482d0f7fca29142ca01cc71358f755638"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_full_double.png",
+      "size_bytes": 89569,
+      "sha256": "986420346f954fc5ddea790fd2f89df88832f05842d06f5e9dce4fc79314db3d"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_full_single.png",
+      "size_bytes": 68868,
+      "sha256": "cd79ab79cd47f00d27d88f53838ab05215d146f717f0be61091fa44a50580f46"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_representative_double.png",
+      "size_bytes": 91888,
+      "sha256": "38d8fa91cdc4773414689f7e75911cbfd831d9c52673b4295ea54241bdeb75bd"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_representative_single.png",
+      "size_bytes": 68946,
+      "sha256": "e3abd0852587e04138c5e8d22bc243e0c90f1a50727d4378e92b1c21cce9de11"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_double.svg",
+      "size_bytes": 8467,
+      "sha256": "7cf497f5db54879bfc95488421269eea7502959ecee1952eb2be0428257d5eed"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_single.svg",
+      "size_bytes": 8877,
+      "sha256": "9e04722ab44829e807296338103043293906e974ff48391b5627d90e06417161"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_linear_double.svg",
+      "size_bytes": 13978,
+      "sha256": "55dedb1b9464f3f3aacaaaa3e102c0d9d1f7cc1c5497c76ca50481420d6fe6bb"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_linear_single.svg",
+      "size_bytes": 12757,
+      "sha256": "65fff3865884d9f29154ea7db025eba414dd2e85b269122df4fbf5ac93cc8c7d"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_log_double.svg",
+      "size_bytes": 14156,
+      "sha256": "1048afcddc7afc9a340ef2af7669478cc6af1c04160880713b0e072b31f50a1a"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_log_single.svg",
+      "size_bytes": 13178,
+      "sha256": "2df6bc2748f22e2bf2c822352a29cd854bb6f841f6b8209fe4ea09805eb50003"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure2_recovery_time_double.svg",
+      "size_bytes": 15054,
+      "sha256": "960694d69161bdc441dcf5a52e3104463c8a8602a1a7675d738571211e68e423"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure2_recovery_time_single.svg",
+      "size_bytes": 13833,
+      "sha256": "fec53c5be58994717c2c2e2c1c87cbee3c6b92a5099a8ebbc9be93298a489477"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure3_transaction_count_double.svg",
+      "size_bytes": 7217,
+      "sha256": "4c9df60d777522472e3302ffc2928a46b6bad67392cc903ecc0d3a5f11a45042"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure3_transaction_count_single.svg",
+      "size_bytes": 6588,
+      "sha256": "23faf55c83db749e7773faad774dbdc57e82b2a4b01829ac02242ae7ca7cd433"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure4_gas_reduction_double.svg",
+      "size_bytes": 7389,
+      "sha256": "5eaa4aad73a34b408552d800668ec24cd3dac95c08f2434dd97df7079a13f590"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure4_gas_reduction_single.svg",
+      "size_bytes": 6741,
+      "sha256": "24b95663cfc220998cb35275e630b1ab3b9671e9d923bc00fd1f2f6f23cfda45"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_full_double.svg",
+      "size_bytes": 21239,
+      "sha256": "d84e57e25fbed4c1368d52cee7fcfc2d6179f0dbb7dc8882eba04e67b21fd939"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_full_single.svg",
+      "size_bytes": 21076,
+      "sha256": "ac133cc5d1d87d638d98d0515ce1bd34f87334ed8e1e830043675b0eddef8c73"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_representative_double.svg",
+      "size_bytes": 13981,
+      "sha256": "34436c9738b939b87de7d45a44a72167e99c44baf0abcc21aba08ac820e54b72"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_representative_single.svg",
+      "size_bytes": 13443,
+      "sha256": "c60c42c40416da7d9bcdbe9acdb0d0705b94de13ae7ec0b2f5844cdbbee7623b"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table_s1_recovery_components_full.csv",
+      "size_bytes": 709,
+      "sha256": "a8e884ac9691c933d8ddd1534f8380e53bf5f8926d079addd0aede33d2faddf4"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table1_experimental_configuration.csv",
+      "size_bytes": 315,
+      "sha256": "f8ce6a60f40a84598a61c119a47256768fe2deef6bc97aa191c81b1b32388396"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table2_anchoring_gas.csv",
+      "size_bytes": 416,
+      "sha256": "2fb26e5b9e28168e1c61e4ac91f3f94efbd3d09043b35d6b4db86f56a92eded2"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table3_recovery_time.csv",
+      "size_bytes": 538,
+      "sha256": "92dfcb1f8322251b58c83a8290deb677a77032d617681d732d82a063624a9c3f"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table4_transactions_feasibility.csv",
+      "size_bytes": 262,
+      "sha256": "9e33b7ff6a22651b9893da0af096664bc3ed39de701a7e40a6fb4d000a8301e3"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table5_recovery_components.csv",
+      "size_bytes": 347,
+      "sha256": "8376d094de175a8106a3a073a15743e6e855274cb17dc1b1b407fbb1efb8bfd1"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table_s1_recovery_components_full.txt",
+      "size_bytes": 916,
+      "sha256": "bd0427cd17a3f7887223a9859614380bf1e6db4781edd65175b37f16e71f6181"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table1_experimental_configuration.txt",
+      "size_bytes": 493,
+      "sha256": "3df505231260bef2f61844f2c7c6fd1a22f7a29b2fe1e3ca003129cfa0a05568"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table2_anchoring_gas.txt",
+      "size_bytes": 598,
+      "sha256": "5aff6c6fe557346f2d92e62db233250ecb0a4fdd5681a1a7a364996911225603"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table3_recovery_time.txt",
+      "size_bytes": 742,
+      "sha256": "0fb9d99cca00d6ecfb6b55387549b28fca14d861f962999a9ee9f4e21a2a4cf0"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table4_transactions_feasibility.txt",
+      "size_bytes": 423,
+      "sha256": "87bd5404630ca66b1ab84d17556aa4b708b66bc7c9a6385c517b7ab86369b33e"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table5_recovery_components.txt",
+      "size_bytes": 597,
+      "sha256": "9da90121656e72f191f3ebcea2957dc74359d71bdb10922dc7174728763eb8c3"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table_s1_recovery_components_full.md",
+      "size_bytes": 1209,
+      "sha256": "46ec5794ad86e504fec113ba4420480d4d37d55fb8e2b677e61904ccb6db289f"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table1_experimental_configuration.md",
+      "size_bytes": 628,
+      "sha256": "bf93afaf2588ec66d6705dd3fba38af3a7c1ef5230652fa2aedf9a24a9f7542b"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table2_anchoring_gas.md",
+      "size_bytes": 711,
+      "sha256": "cdd6244b17ff364e1b21f4815f01d53b0e7615df997ce0d410df2409ec785d70"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table3_recovery_time.md",
+      "size_bytes": 901,
+      "sha256": "0299ff6b9bc59c4a49e0e60ef0679930c9172356001b7b0fbc2957f7e49da76b"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table4_transactions_feasibility.md",
+      "size_bytes": 582,
+      "sha256": "cc523587b66ce1fdbd862734d01b9ffd961351c3a237b5763c94a0767e4d7431"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table5_recovery_components.md",
+      "size_bytes": 762,
+      "sha256": "194c0c6ba453756410083da9f72882f66a1af3495031ca51a881fe9e24652cd1"
+    }
+  ],
+  "mutable_text_prefixes": {
+    "figure_captions_sha256": "5c8f2ba94540e115099669ad6ac7e6579d38c249b1b6b4b5ecca40ef599eff0f",
+    "table_captions_sha256": "8f80f49b237f8e81cff3b05b9010623f5013e9706084e7318a5509d16f4ef560",
+    "overview_sha256": "b8569763771b794a694d778c752614d2fdc69fa1750c4413dce1ea59364e3934"
+  }
+}

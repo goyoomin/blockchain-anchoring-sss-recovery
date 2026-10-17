@@ -1,0 +1,5 @@
+{"transactionHash":"0x3e17ca0d9cb5db11b0744ae89c68177286094f5e37fedf547c06a9f15cf4f19c","blockNumber":2,"gasUsed":"47462","status":1,"operation":"anchorShare","shareIndex":0}
+{"transactionHash":"0xb2da4ec234d4090f1217d81f1c0967f86382ce6db38436ef073633886f94f01e","blockNumber":3,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":1}
+{"transactionHash":"0xd6247af5b0872997a18b55dd81ad042358b0f1ac54c9397134fb7b60d8d2c0ff","blockNumber":4,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":2}
+{"transactionHash":"0x7603406c3b1b2e32053bad817b91b5075b80456e45a32c278e826058b7e80c3f","blockNumber":5,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":3}
+{"transactionHash":"0xfdf79eba99d29364c1d99dad8f27e4fde29d601fbb08f56b3b1c032390999564","blockNumber":6,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":4}

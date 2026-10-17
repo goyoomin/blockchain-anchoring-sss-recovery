@@ -1,0 +1,2 @@
+grid_type,minimum_mean_gas,maximum_mean_gas,absolute_range_gas,relative_range_percent,linear_regression_slope_gas_per_guardian,interpretation_basis
+PAPER_GRID,66827,66830.6,3.6000000000058208,0.005387044158806801,-0.0027925000665530923,DESCRIPTIVE_SCALING_PATTERN_NOT_P_VALUE

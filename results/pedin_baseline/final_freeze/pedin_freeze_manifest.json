@@ -1,0 +1,65 @@
+{
+  "freeze_version": "PEDIN_PAPER_GUIDED_V1",
+  "status": "FROZEN",
+  "freeze_date": "2026-08-11T17:14:53.459Z",
+  "scope": "PAPER_GUIDED_MERKLE_SHA256_SETUP_ONLY",
+  "raw_file": "results/pedin_baseline/pedin_raw.csv",
+  "raw_sha256": "c012463d35fc5a0121806aa6b6bb0b355f5e46d40ed3c7eaa4fbd2322bd0999e",
+  "rows": 510,
+  "paper_grid_rows": 390,
+  "common_grid_rows": 120,
+  "datasets": 510,
+  "contract_source_sha256": "f933c1d86f9cc97735f4fa0a8a41988ecb39c12b9fb1afc7c289e4e550421833",
+  "environment_snapshot_sha256": "eec3889c0dfcc90cefaa40befc77c62bc2547a33115473f28a1ff77b48d348b7",
+  "assumption_register_sha256": "20fd05660bf291f538a60ae67153ff707905fdbe46f2f9675a99152a11319449",
+  "statistics": [
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_paper_grid_statistics.csv",
+      "sha256": "5026dab331b55f5013ab7f047fde23052d45b5c3d35bd44ea81238fa1e749910"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_statistics.csv",
+      "sha256": "25e523cef36cd378ead83e4ef941f8d71743e4bacf25c14920b2957be31109fa"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_scalability_analysis.csv",
+      "sha256": "42a991621a9eb08e1bf6d7275f936843bc1cf8be0d0afcdbbfd97b38cf75b6d4"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_comparison.csv",
+      "sha256": "d081e70118458d6d85b35c332c255f83bb1b84e882cae6a8a8556c9c7c49b4a7"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_normalized_scalability.csv",
+      "sha256": "2d03d8d3464ad77df3db6818d78c4621f28559ef6aa0f3ccaa864fcce8ca6406"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_execution_feasibility.csv",
+      "sha256": "a521eaa5c15562a2688a744ae143ff151c0efec4d0f4c4a2bfcf6452fe584440"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/PEDIN_BASELINE_ANALYSIS.md",
+      "sha256": "559f7e5e40d7bc540266739c21d9c21ca04609f08b323234cdf875a850a25113"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/PEDIN_METHOD_FIDELITY.md",
+      "sha256": "00196f2ad0ce197c206a07e659fd262fb8ba858b7fb779ebbe5e20f5b8ec49d2"
+    }
+  ],
+  "frozen_primary_experiment_integrity": {
+    "valid": true,
+    "main": {
+      "path": "results/main/main_raw.csv",
+      "sha256": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+      "expected": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+      "valid": true
+    },
+    "recovery": {
+      "path": "results/recovery_validation/recovery_counterbalanced_raw.csv",
+      "sha256": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+      "expected": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+      "valid": true
+    }
+  },
+  "validation": true
+}

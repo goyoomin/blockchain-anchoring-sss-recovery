@@ -1,0 +1,15 @@
+# Table 1. Experimental Configuration
+
+Experimental configuration for the frozen Hardhat evaluation.
+
+| Share count (n) | Threshold (k) | Repetitions | Main datasets | Mechanisms |
+| ---: | ---: | ---: | ---: | --- |
+| 5 | 3 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+| 10 | 6 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+| 20 | 11 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+| 50 | 26 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+| 100 | 51 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+| 500 | 251 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+| 1000 | 501 | 30 | 30 | PER_SHARE; MERKLE_ROOT |
+
+Note: Each dataset was evaluated once with each mechanism in each experiment.

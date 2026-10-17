@@ -1,0 +1,129 @@
+{
+  "valid": true,
+  "status": "PEDIN BASELINE READY FOR FULL EXECUTION",
+  "validated_at": "2026-08-11T16:58:39.205Z",
+  "data": {
+    "valid": true,
+    "expected_rows": 4,
+    "actual_rows": 4,
+    "unique_dataset_ids": 4,
+    "success_count": 4,
+    "failure_count": 0,
+    "errors": []
+  },
+  "conditions": {
+    "2": {
+      "grid_type": "PAPER_GRID",
+      "actual_leaf_count": 2,
+      "padded_leaf_count": 2,
+      "padding_count": 0,
+      "all_proofs_valid": true,
+      "readback_success": true,
+      "setup_gas_used": 66831,
+      "deployment_gas": 189289
+    },
+    "10": {
+      "grid_type": "COMMON_COMPARISON_GRID",
+      "actual_leaf_count": 10,
+      "padded_leaf_count": 16,
+      "padding_count": 6,
+      "all_proofs_valid": true,
+      "readback_success": true,
+      "setup_gas_used": 66831,
+      "deployment_gas": 189289
+    },
+    "16": {
+      "grid_type": "PAPER_GRID",
+      "actual_leaf_count": 16,
+      "padded_leaf_count": 16,
+      "padding_count": 0,
+      "all_proofs_valid": true,
+      "readback_success": true,
+      "setup_gas_used": 66831,
+      "deployment_gas": 189289
+    },
+    "192": {
+      "grid_type": "PAPER_GRID",
+      "actual_leaf_count": 192,
+      "padded_leaf_count": 256,
+      "padding_count": 64,
+      "all_proofs_valid": true,
+      "readback_success": true,
+      "setup_gas_used": 66831,
+      "deployment_gas": 189289
+    }
+  },
+  "n2_reference_root_valid": true,
+  "n192_padding_valid": true,
+  "environment_match": true,
+  "frozen_integrity": {
+    "valid": true,
+    "main": {
+      "path": "results/main/main_raw.csv",
+      "sha256": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+      "expected": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+      "valid": true
+    },
+    "recovery": {
+      "path": "results/recovery_validation/recovery_counterbalanced_raw.csv",
+      "sha256": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+      "expected": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+      "valid": true
+    }
+  },
+  "frozen_validation": {
+    "valid": true,
+    "checked_at": "2026-08-11T16:58:39.205Z",
+    "status": "FROZEN",
+    "main_rows": 420,
+    "recovery_rows": 420,
+    "datasets": 210,
+    "primary_mechanism_executions": 840,
+    "main_hash_valid": true,
+    "recovery_hash_valid": true,
+    "dataset_hashes_valid": true,
+    "environment_valid": true,
+    "manifest_file_count": 702,
+    "errors": []
+  },
+  "source_fidelity_tests": {
+    "valid": true,
+    "executed_at": "2026-08-11T16:58:06.037Z",
+    "tests": {
+      "n2_reference_root": true,
+      "leaf_uses_sha256_utf8": true,
+      "parent_preserves_left_right": true,
+      "leaf_sorting_disabled": true,
+      "pair_sorting_disabled": true,
+      "last_leaf_padding_to_power_of_two": true,
+      "every_actual_proof_reconstructs_root": true,
+      "independent_reference_verifier": true,
+      "zero_based_index_convention": true,
+      "pbk_and_root_written_by_one_transaction": true,
+      "setup_gas_is_receipt_gas_used": true,
+      "deployment_gas_is_separate": true
+    },
+    "n2": {
+      "shares": [
+        "A",
+        "B"
+      ],
+      "root": "0x63956f0ce48edc48a0d528cb0b5d58e4d625afb14d63ca1bb9950eb657d61f40",
+      "expected_root": "0x63956f0ce48edc48a0d528cb0b5d58e4d625afb14d63ca1bb9950eb657d61f40"
+    },
+    "n3": {
+      "actual_leaf_count": 3,
+      "padded_leaf_count": 4,
+      "padding_count": 1,
+      "root": "0x420940ee1c7a73de80cfa2554efb4e6cec7ea745fed73108ccb06886054df8c6"
+    },
+    "contract": {
+      "name": "PedinPaperGuidedSetup",
+      "setup_transaction_count": 1,
+      "setup_receipt_gas_used": "66831",
+      "deployment_receipt_gas_used": "189289",
+      "readback_success": true
+    }
+  },
+  "errors": []
+}

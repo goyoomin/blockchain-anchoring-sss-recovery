@@ -1,0 +1,117 @@
+{
+  "compared_at": "2026-08-09T16:25:49.440Z",
+  "main_environment": "results/environment.json",
+  "recovery_validation_environment": "results/recovery_validation/environment.json",
+  "environment_match": true,
+  "compared_fields": [
+    {
+      "field": "os",
+      "main": "Windows_NT 10.0.26200 x64",
+      "recovery_validation": "Windows_NT 10.0.26200 x64",
+      "match": true
+    },
+    {
+      "field": "cpu",
+      "main": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "recovery_validation": "Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz",
+      "match": true
+    },
+    {
+      "field": "ram_bytes",
+      "main": 17096192000,
+      "recovery_validation": 17096192000,
+      "match": true
+    },
+    {
+      "field": "node_version",
+      "main": "v22.23.1",
+      "recovery_validation": "v22.23.1",
+      "match": true
+    },
+    {
+      "field": "npm_version",
+      "main": "10.9.8",
+      "recovery_validation": "10.9.8",
+      "match": true
+    },
+    {
+      "field": "hardhat_version",
+      "main": "2.29.0",
+      "recovery_validation": "2.29.0",
+      "match": true
+    },
+    {
+      "field": "ethers_version",
+      "main": "6.17.0",
+      "recovery_validation": "6.17.0",
+      "match": true
+    },
+    {
+      "field": "solidity_version",
+      "main": "0.8.24",
+      "recovery_validation": "0.8.24",
+      "match": true
+    },
+    {
+      "field": "solidity_compiler_version",
+      "main": "0.8.24",
+      "recovery_validation": "0.8.24",
+      "match": true
+    },
+    {
+      "field": "optimizer_enabled",
+      "main": false,
+      "recovery_validation": false,
+      "match": true
+    },
+    {
+      "field": "optimizer_runs",
+      "main": 200,
+      "recovery_validation": 200,
+      "match": true
+    },
+    {
+      "field": "sss_library",
+      "main": "secrets.js-grempe",
+      "recovery_validation": "secrets.js-grempe",
+      "match": true
+    },
+    {
+      "field": "sss_library_version",
+      "main": "2.0.0",
+      "recovery_validation": "2.0.0",
+      "match": true
+    },
+    {
+      "field": "merkle_library",
+      "main": "merkletreejs",
+      "recovery_validation": "merkletreejs",
+      "match": true
+    },
+    {
+      "field": "merkle_library_version",
+      "main": "0.6.0",
+      "recovery_validation": "0.6.0",
+      "match": true
+    },
+    {
+      "field": "hash_algorithm",
+      "main": "KECCAK256",
+      "recovery_validation": "KECCAK256",
+      "match": true
+    },
+    {
+      "field": "block_gas_limit",
+      "main": "30000000",
+      "recovery_validation": "30000000",
+      "match": true
+    },
+    {
+      "field": "chain_id",
+      "main": "31337",
+      "recovery_validation": "31337",
+      "match": true
+    }
+  ],
+  "differences": []
+}

@@ -1,0 +1,39 @@
+{
+  "valid": true,
+  "executed_at": "2026-08-11T16:58:06.037Z",
+  "tests": {
+    "n2_reference_root": true,
+    "leaf_uses_sha256_utf8": true,
+    "parent_preserves_left_right": true,
+    "leaf_sorting_disabled": true,
+    "pair_sorting_disabled": true,
+    "last_leaf_padding_to_power_of_two": true,
+    "every_actual_proof_reconstructs_root": true,
+    "independent_reference_verifier": true,
+    "zero_based_index_convention": true,
+    "pbk_and_root_written_by_one_transaction": true,
+    "setup_gas_is_receipt_gas_used": true,
+    "deployment_gas_is_separate": true
+  },
+  "n2": {
+    "shares": [
+      "A",
+      "B"
+    ],
+    "root": "0x63956f0ce48edc48a0d528cb0b5d58e4d625afb14d63ca1bb9950eb657d61f40",
+    "expected_root": "0x63956f0ce48edc48a0d528cb0b5d58e4d625afb14d63ca1bb9950eb657d61f40"
+  },
+  "n3": {
+    "actual_leaf_count": 3,
+    "padded_leaf_count": 4,
+    "padding_count": 1,
+    "root": "0x420940ee1c7a73de80cfa2554efb4e6cec7ea745fed73108ccb06886054df8c6"
+  },
+  "contract": {
+    "name": "PedinPaperGuidedSetup",
+    "setup_transaction_count": 1,
+    "setup_receipt_gas_used": "66831",
+    "deployment_receipt_gas_used": "189289",
+    "readback_success": true
+  }
+}

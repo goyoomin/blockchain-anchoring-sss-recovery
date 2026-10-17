@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "dataset_id": "pedin_common_n10_run027",
+  "grid_type": "COMMON_COMPARISON_GRID",
+  "n": 10,
+  "k": 6,
+  "synthetic_recovery_secret": "0x28b79eeaebb3f1ca004854f02f81ed401c43bc115d7af78395944577e47d0bc4",
+  "synthetic_recovery_address_pbk": "0x1761A6FbB6318b16FA8044f6eb2678056125430d",
+  "shares": [
+    "80122831bc0f5721b76b7626963bdd6f9ee88e7c815164bca75c59d17dfff2e8679eca04be636a0624701979cff8cf74e70",
+    "802bd62629fe8f02606b0356ff8732af575f0b2f05b70217c47177d117737cf551c651ba111685b9fcc767b414e17693a04",
+    "8033cc3e1a8821cde846bb0824ac951e701d7f7794e1fa2b2a8f96bca4113e3dd2ca94a2ae4c1ffbb0266815100bed6e216",
+    "804cef5e0888b928620b3c012470f8b7296b1881a79131c7b09fff754932cbbbb7e3c45247f8ee7f6e09b4f2899c55ae65d",
+    "8055015e986adef9a08edb1a77750ebb31240326a3287e7929f0db5663b6f1c4df6a2e59b68ec3e2ba0978695aebcfc50b0",
+    "806a0d9fc6d9e3e056d6168f27ab95e7c62ed1063322879bc8b2adaa963f8d38f79696944aa8625f0927feae7fc37c2628d",
+    "8079d1b6d9427ddfab153fec39be193567d9bbfcc932ef9a04df35b03d24ff79af8cb7b87bf26829cd8f7da930d8f5149c6",
+    "80814ce873ce294049802fe6391d457e46f8f91c84fd89b667128b461aa83c43f106ec6725adab12871e79cff7cceb967df",
+    "80991355a75e4ce656d8b7e3adb9cb05536969a9db7b0d691435628cde9085d0078dc5756a1e60bfd95f244432284bbfb8b",
+    "80a8b51c0477db09d76897938fd681e8ac6748a16f3908195411145533dde8a64a66e8313521f87212e4f43378a3f15659b"
+  ],
+  "sss": {
+    "scheme": "SHAMIR_SECRET_SHARING",
+    "library": "secrets.js-grempe",
+    "library_version": "2.0.0",
+    "field_bits": 8,
+    "threshold_policy": "K_EQUALS_N_OVER_2_PLUS_1_FOR_EVEN_N",
+    "share_serialization": "CANONICAL_LIBRARY_ENCODED_STRING_UTF8"
+  },
+  "generated_at": "2026-08-11T17:11:16.486Z",
+  "synthetic_research_key": true,
+  "provenance": {
+    "baseline": "PEDIN_2023_PAPER_GUIDED_MERKLE_SHA256_SETUP",
+    "source": "independently generated for this controlled experiment",
+    "real_user_wallet": false,
+    "reused_from_frozen_main": false
+  },
+  "dataset_digest_sha256": "e01901c08e0e611345c5f7278b830b65814d8c2c07910b862f13cbea264ef2e2"
+}

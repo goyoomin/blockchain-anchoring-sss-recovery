@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "checked_at": "2026-08-09T16:25:51.588Z",
+  "status": "FROZEN",
+  "main_rows": 420,
+  "recovery_rows": 420,
+  "datasets": 210,
+  "primary_mechanism_executions": 840,
+  "main_hash_valid": true,
+  "recovery_hash_valid": true,
+  "dataset_hashes_valid": true,
+  "environment_valid": true,
+  "manifest_file_count": 702,
+  "errors": []
+}

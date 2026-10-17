@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "dataset_id": "pedin_paper_n16_run015",
+  "grid_type": "PAPER_GRID",
+  "n": 16,
+  "k": 9,
+  "synthetic_recovery_secret": "0x2faccf5d8ce26f4d93b2bd3b58dc7f66d2b6c608b3cf2dcabad84a6553234ff6",
+  "synthetic_recovery_address_pbk": "0xDEE4d8Df957Ef31151a37A45Aa8a0dc95163a6C9",
+  "shares": [
+    "80178773cb7f5967616725cece72f4b618c02d0b6304a1831363ed2c49738ed6d64aec8f341926d385181f15681998cc6cb",
+    "8029272e498cf61122a8a77f3ef748a81a4054076409fe632a723dddd892970cd840e49f5b97c960f1bcb09370f8b54eb7c",
+    "803ebb46ed4629ff417987e184a69c17d8e2e7b1988b91069df59a7e378ad00d7491e392116eee0311bdf11733265f044c6",
+    "80431f3d286f88b4eec00ea7b5f72a5dafad0002b778ad882b12b10141b19f2aed27b879457d076341f6551e95f568d5742",
+    "8054ad0cecc8266f25e3ac4f437b2f1533ee8bcab34be7a9299e579d9cdc278a671ee732f218d66592a10311f5b49e85b4a",
+    "80610eaa6158b9bb5ab35fb0c4b2d2a3f52a0dd461ade4defc3b3ee19234646c6ae69b86874398ccd96449c7da8c8d7d299",
+    "80734dc5041c43af4ec21d1d4063a0c5a4fb203ef5ae604e6050ea4c1ec90e2de97540bc109d421ae79bdc0884df0079889",
+    "8086998cc02af55ad8052de7f0125b0ecc438549785c74dd819982c3cc1a238871eea1be48a13b54f5f3b8362abf4db80a9",
+    "8093031ba537b0c1b0f2271eb3a93ae67bec2274b689e9e3027fdeec4bdede9fe6a3064d0084308e91958dbb9ef2928f7cf",
+    "80a0835e4ce7a009fe05e3aaa359fa29c49ea4c3b0c124b964f490de91c71917430cf4299f8a0d8ddceb52c94591f2dcde0",
+    "80b004058f61b9354db6342ad3d89fef23e04cca4059f2aee5096f4ee8ca0c0c851077cd7be7904e4ecf6bb09f3dc598f61",
+    "80ce047e7610b47869a03586490c65da2a8b9b54f718699036529b1a99a027f727e2eacd5e64c474eccb589f6cd79560b78",
+    "80d61b8bab87c59d6542e3c42bfeadcf9c10d52476057b7b11a2d3ae43e59e9b8af8149b949d8d9c4539f2ac941c91467b9",
+    "80e0e657e45e694d9b864355ab2b4f594d9b2ebc17103f0db3c34d063705257c71b6b464b914437700228f46ff349e82d48",
+    "80f80e2b5104964991c4ad7bfc9dd445bc33edab522ea8be58f2e59837c7e2ed08a12abae175aa140b881954da9e49314f1",
+    "81041c4276792c7ee30d16a2c7911413deec6fa7922d894a6ddea3fb189379b32866b78cf822d1bacc97d8393b58d28709d"
+  ],
+  "sss": {
+    "scheme": "SHAMIR_SECRET_SHARING",
+    "library": "secrets.js-grempe",
+    "library_version": "2.0.0",
+    "field_bits": 8,
+    "threshold_policy": "K_EQUALS_N_OVER_2_PLUS_1_FOR_EVEN_N",
+    "share_serialization": "CANONICAL_LIBRARY_ENCODED_STRING_UTF8"
+  },
+  "generated_at": "2026-08-11T17:10:54.087Z",
+  "synthetic_research_key": true,
+  "provenance": {
+    "baseline": "PEDIN_2023_PAPER_GUIDED_MERKLE_SHA256_SETUP",
+    "source": "independently generated for this controlled experiment",
+    "real_user_wallet": false,
+    "reused_from_frozen_main": false
+  },
+  "dataset_digest_sha256": "1718e0f896d2c29832413df8a47bc86ef6df26c5d6d21268c08cb7d80bcd2641"
+}

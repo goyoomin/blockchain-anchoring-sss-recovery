@@ -1,0 +1,10 @@
+{"transactionHash":"0x0bd41d36f5f6427222fecf4aab8e634ced8a647fbd2fcd773ddfeaad0d947a24","blockNumber":2,"gasUsed":"47462","status":1,"operation":"anchorShare","shareIndex":0}
+{"transactionHash":"0xbf22d77b2cb7331e58e558beb198f9599e8b771db320c4d9fec721801e8ca94f","blockNumber":3,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":1}
+{"transactionHash":"0x421f362a94f6274ff6682b86b180e9d70434c6c02a8d4703438264c38aa1cf96","blockNumber":4,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":2}
+{"transactionHash":"0x92029c8889a41a0e6d4d3eb5c764a40d75c4d1099d5ec096377d0b95d14a4fff","blockNumber":5,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":3}
+{"transactionHash":"0x46b5057f8f910d19342ba37ee252180f59eca7eb824360c425643517ab24c392","blockNumber":6,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":4}
+{"transactionHash":"0xfc18d5427097bdd2f19f758ba12e2c51b09b08821d4b30fd1fbe5a97e1841dfd","blockNumber":7,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":5}
+{"transactionHash":"0x559bb182c6ec673d15df85f026107501c634b72e08283b2afa9ac8d6b174ed95","blockNumber":8,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":6}
+{"transactionHash":"0x2bef782af9d340239a6c36ccf43a91d7a790ce9cc7d662501d5d93e27d6e3335","blockNumber":9,"gasUsed":"47462","status":1,"operation":"anchorShare","shareIndex":7}
+{"transactionHash":"0xf9e8bf92bbe570c550cde67636a5ee4602a7b0b811a57b265d5888acaa3cc04b","blockNumber":10,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":8}
+{"transactionHash":"0xa5aa4ea1314630e50fe858f99384eb8976014760ddff319f20b15229181a10c5","blockNumber":11,"gasUsed":"47474","status":1,"operation":"anchorShare","shareIndex":9}

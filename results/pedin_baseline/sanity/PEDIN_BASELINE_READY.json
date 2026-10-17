@@ -1,0 +1,46 @@
+{
+  "status": "PEDIN BASELINE READY FOR FULL EXECUTION",
+  "created_at": "2026-08-11T16:58:39.205Z",
+  "sanity_validation": "results/pedin_baseline/sanity/pedin_sanity_validation.json",
+  "source_hashes": [
+    {
+      "relative_path": "contracts/baselines/PedinPaperGuidedSetup.sol",
+      "sha256": "f933c1d86f9cc97735f4fa0a8a41988ecb39c12b9fb1afc7c289e4e550421833"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/merkle/pedinMerkleSha256.js",
+      "sha256": "f5b9e931dbe1ed3fd6e254229e5c1cee67c3ed9035b8f716ccbcd405e97d1686"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/config/pedinConfig.js",
+      "sha256": "60f02921ce8276dc57f00759f5f36830ecb5984878c675b0cf7f9e68f4f755e8"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/datasets/pedinDataset.js",
+      "sha256": "04c3b45023b36a0739ad0d38f522b7b115a86ec2913af8006256509f19ac5192"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/runners/pedinRunner.js",
+      "sha256": "de7cc999e736014609e93314f0c8c2b5f1ab82e035ad4dee628cadef063f1f29"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/validation/pedinValidation.js",
+      "sha256": "a18b8f35c38320a750e2e3db534cf74aa9f7980c0e4bae4b88281e2ae51de135"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/documentation/PEDIN_SOURCE_AUDIT.md",
+      "sha256": "2fc8b3053708bfe8e222c79fbc0475932aaa51fb4071fd4e5b6011959ecb527d"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/documentation/PEDIN_ASSUMPTION_REGISTER.md",
+      "sha256": "20fd05660bf291f538a60ae67153ff707905fdbe46f2f9675a99152a11319449"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/documentation/PEDIN_COMPARISON_SCOPE.md",
+      "sha256": "83b4090a8cc1b90bc5065d150f4e7544e6e115e0ea211085189ba177063f1f0f"
+    }
+  ],
+  "frozen_main_sha256": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+  "frozen_recovery_sha256": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+  "expected_full_rows": 510
+}

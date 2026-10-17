@@ -1,0 +1,130 @@
+{
+  "analysis_version": "MDPI_FINAL_STATISTICS_V1",
+  "analysis_date": "2026-08-09T15:42:50.501Z",
+  "status": "VALID",
+  "sources": {
+    "gas": "results/main/main_raw.csv#primary_gas_used",
+    "recovery_time": "results/recovery_validation/recovery_counterbalanced_raw.csv#total_recovery_time_ms",
+    "transaction_count": "results/main/main_raw.csv#transaction_count"
+  },
+  "source_hashes": {
+    "main": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+    "recovery_counterbalanced": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942"
+  },
+  "rows": {
+    "main": 420,
+    "recovery_counterbalanced": 420
+  },
+  "datasets": {
+    "main": 210,
+    "recovery_counterbalanced": 210
+  },
+  "observations_per_n_mechanism": 30,
+  "n_values": [
+    5,
+    10,
+    20,
+    50,
+    100,
+    500,
+    1000
+  ],
+  "statistical_definition": {
+    "variance_and_standard_deviation": "sample (n-1)",
+    "quartiles": "linear interpolation",
+    "confidence_interval": "two-sided 95% Student t interval using METRIC_DEFINITIONS.md critical values",
+    "paired_delta": "PER_SHARE total_recovery_time_ms - MERKLE_ROOT total_recovery_time_ms",
+    "outlier_removal": false,
+    "raw_rounding": false
+  },
+  "paired_ci_excludes_zero_n": [
+    20,
+    50,
+    100,
+    500
+  ],
+  "paired_ci_includes_zero_n": [
+    5,
+    10,
+    1000
+  ],
+  "generated_files": [
+    "results/analysis/final_statistics/final_gas_statistics.csv",
+    "results/analysis/final_statistics/final_gas_comparison.csv",
+    "results/analysis/final_statistics/final_recovery_statistics.csv",
+    "results/analysis/final_statistics/final_recovery_paired_comparison.csv",
+    "results/analysis/final_statistics/final_recovery_comparison.csv",
+    "results/analysis/final_statistics/final_recovery_component_statistics.csv",
+    "results/analysis/final_statistics/final_transaction_count.csv",
+    "results/analysis/final_statistics/final_execution_feasibility.csv",
+    "results/analysis/final_statistics/final_scalability_summary.csv",
+    "results/analysis/final_statistics/final_publication_values.csv",
+    "results/analysis/final_statistics/FINAL_STATISTICS_TABLES.md",
+    "results/analysis/final_statistics/FINAL_STATISTICAL_ANALYSIS.md",
+    "results/analysis/final_statistics/final_statistics_manifest.json"
+  ],
+  "generated_file_hashes": [
+    {
+      "relative_path": "results/analysis/final_statistics/final_gas_statistics.csv",
+      "size_bytes": 2642,
+      "sha256": "60efb37faefbbb12a9bac8038908e6905c0d03ebe2cb02e9177ce5c02684655d"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_gas_comparison.csv",
+      "size_bytes": 1435,
+      "sha256": "bb44d9235250021c9536d2bf6e2a2a6b93ad808e08e8f1d26cc112ed2943f427"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_statistics.csv",
+      "size_bytes": 3288,
+      "sha256": "3d1c4875d9e1c0413cec7250be9374ecc2c4163ced719dc5343eb7ef3ec8a9ea"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_paired_comparison.csv",
+      "size_bytes": 1556,
+      "sha256": "0ff8aec5bc2122d89f29405efc78156a48903ddcb8f774551f96979c6e66ff1d"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_comparison.csv",
+      "size_bytes": 2017,
+      "sha256": "8e90e0455627d9eb4d220c760d198a47b99a8508de4296a67de005fe7d1292e3"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_component_statistics.csv",
+      "size_bytes": 10311,
+      "sha256": "222ad46d909ba040636e969e9a787c8c4fd7ee4b662a3767c37157c4d4297873"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_transaction_count.csv",
+      "size_bytes": 220,
+      "sha256": "d2baebc2b5256a4aea7772a9ca769bb57a0c8dc4454e79aeee879498e821c346"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_execution_feasibility.csv",
+      "size_bytes": 1234,
+      "sha256": "bc085d0659c9d0e0287b2f40aca64737e7fd2c547e0237b0eed20ef5f1fcd8ed"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_scalability_summary.csv",
+      "size_bytes": 1319,
+      "sha256": "e7f217f804273dfc5187e7c9d1a13b31fcbbd9883a72ef437decd50a9b7c13da"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_publication_values.csv",
+      "size_bytes": 1208,
+      "sha256": "5a696551e25c9314a7c08f1470161227b9cc02271c9ae58c36b7a8f58c98b1c9"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/FINAL_STATISTICS_TABLES.md",
+      "size_bytes": 2726,
+      "sha256": "c5b70a1138c0eb7e3e7bf9caf1d1defe0e417108e0420ba4f2f0711426991ebd"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/FINAL_STATISTICAL_ANALYSIS.md",
+      "size_bytes": 1904,
+      "sha256": "e4ee2439bb8c12099c7b3bb54632a2c253017abc49246f1f122e939af49dd665"
+    }
+  ],
+  "validation_result": true,
+  "raw_data_unchanged": true
+}

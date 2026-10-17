@@ -1,0 +1,32 @@
+{
+  "main_experiment": {
+    "datasets": 210,
+    "mechanism_executions": 420,
+    "successes": 420,
+    "failures": 0
+  },
+  "recovery_counterbalanced_validation": {
+    "datasets": 210,
+    "mechanism_executions": 420,
+    "successes": 420,
+    "failures": 0
+  },
+  "total_primary_hardhat_mechanism_executions": 840,
+  "auxiliary_experiments": {
+    "pilot": {
+      "raw_file": "results/pilot/pilot_raw.csv",
+      "rows": 18,
+      "included_in_primary_840": false
+    },
+    "single": {
+      "raw_file": "results/pilot/single_raw.csv",
+      "rows": 6,
+      "included_in_primary_840": false
+    },
+    "recovery_sanity": {
+      "raw_file": "results/recovery_validation/recovery_sanity_raw.csv",
+      "rows": 4,
+      "included_in_primary_840": false
+    }
+  }
+}

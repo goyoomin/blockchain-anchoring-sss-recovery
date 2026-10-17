@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "dataset_id": "pedin_common_n20_run020",
+  "grid_type": "COMMON_COMPARISON_GRID",
+  "n": 20,
+  "k": 11,
+  "synthetic_recovery_secret": "0xa77e7d45a3d9f83266c2a862b107d097319ba6456ed963e188d17dc68808bf8b",
+  "synthetic_recovery_address_pbk": "0xFAa9AdbC83be508Fa683B7ce78aAC3233d01a56e",
+  "shares": [
+    "80131133dc37d725b67663bc11abfbee9c2abde6c7a25bfa3b7c7bf9138b66a56703a68dce9977a5ee6b6acfd086f29e9c8",
+    "802dc73edc2ea50f0e669e0c12bace4e8bae910eac1a3d66fe6da64245669bc6d90d9ed68af6a3864c5dacf130a3766cb37",
+    "80317fb98411a3fd1bcfc4a92c451b63dd558b87a510b8a1f6bf4b38fa09ae2952374216206349c1f0a334cf1c13919a881",
+    "804688ade48bd3faa90b0301da34544779b119be9f4fe7092ca882932f106e75a05049447183994ae3355505f862acffcc4",
+    "805ebe7cd7031e5b0b74e46827d38665cff6b6b08736ab481710446c1ba9928929a45380e783fda929f77fa7923171d3aff",
+    "8062fb241614c161fa50324b9dc6581ddfd4ff7bd6c91f43366022b9b0a589397e69fd8c07b0d880040a65002c6b0857883",
+    "80760fd2d6480e2c858827ca6ca020ec3a89f9139d4f01d28f9ac6f707096af1c1919d07b68a2316991efc66c9816d4c478",
+    "8082cb8ea9248fd509e2937155369b7763ebee6bf90d526bb983224e724c6260ee3d06f510d62203b9d35d4e0b12e29c2f6",
+    "809d1a90736a5debc99d45e165ffb8efba2a534b59ec9d4de4494511be48a993c46aec7f627da1effbbacf367cad8358e52",
+    "80a23b059708fe8abf9dc82b95d02bb6ea2c6eba108430971377f64594c213951c308b55c38b013ca422f813dec5b6e47ea",
+    "80bd7d41904376b177df5e079ddf69179de7f47ae1ba0defff19d62646ce29364edd51a680d6b8b0faac152bef706890572",
+    "80cccf7c2daad6462b23443c4ba32d8532252c1effc3376028cb5806859ac3f6d09ce97f93753108f9a3a3bcdf91994c20e",
+    "80da1e64b672218bb50b574878fd40a135bf4b908ba0ded163533b1d7ca1203ec260c4f83ec1ead3cb3143ada8db5266348",
+    "80e5a7681bf2bb04df846e7f80bcef2fd56756651835f9daed8def789cba97ba9d2af65b30ee26fa29ef9f987caf645e376",
+    "80f08ab92af3c5f737e9f646a8f16722e5266fe574845347257b1347d253d921242af21d8bcc28403cc1ccebe2083d10339",
+    "8108ad3887ed4d7872402dfe7cfd4101652d995a81968141a89108b5b04062a50f36c205ecb8792d5040feff5a04ac1aed7",
+    "811b9fd54ff2c95ebc9358ce3066134cc91cc377a5c17db71469e6636a05883a20c1be87368ad667ff56142b89e62bc695c",
+    "81276f57f010ff5a7029e8437a4cb11667a077b5d46c39449272e05fb0c353b85de2e66b44c78ea2a26fbd8c323aa1bf397",
+    "8130626339002eba3fb267b3dad28ddce56cb318438ef0516ea8ee92347110e3c0e4789e13681543bcfdce6bd212e1e71f3",
+    "8140bc2638245ef6cc5028786343f3e041369bb10198d4157a95fcc0add158ca1df7e3896e2113ac6b03c9a20f45b6a3b61"
+  ],
+  "sss": {
+    "scheme": "SHAMIR_SECRET_SHARING",
+    "library": "secrets.js-grempe",
+    "library_version": "2.0.0",
+    "field_bits": 8,
+    "threshold_policy": "K_EQUALS_N_OVER_2_PLUS_1_FOR_EVEN_N",
+    "share_serialization": "CANONICAL_LIBRARY_ENCODED_STRING_UTF8"
+  },
+  "generated_at": "2026-08-11T17:11:17.436Z",
+  "synthetic_research_key": true,
+  "provenance": {
+    "baseline": "PEDIN_2023_PAPER_GUIDED_MERKLE_SHA256_SETUP",
+    "source": "independently generated for this controlled experiment",
+    "real_user_wallet": false,
+    "reused_from_frozen_main": false
+  },
+  "dataset_digest_sha256": "2fb05db3ec0c2a8a3540bf634829bdf22054907842fc3b61f6e556a86e2d9d9f"
+}

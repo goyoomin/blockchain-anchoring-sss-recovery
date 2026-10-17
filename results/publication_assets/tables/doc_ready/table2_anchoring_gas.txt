@@ -1,0 +1,13 @@
+Table 2. Cumulative Anchoring Gas Results
+Main Experiment cumulative anchoring gas; values are mean ± sample SD over 30 repetitions.
+
+n	PER_SHARE mean ± SD	MERKLE_ROOT mean ± SD	Gas reduction (%)
+5	237,340 ± 20.358	46,540 ± 5.811	80.39
+10	474,705 ± 32.803	46,540 ± 4.549	90.20
+20	949,374 ± 126.451	46,538 ± 6.560	95.10
+50	2,373,473 ± 344.579	46,536 ± 11.245	98.04
+100	4,746,793 ± 670.066	46,536 ± 7.557	99.02
+500	23,738,155 ± 2,259.982	46,538 ± 6.673	99.80
+1000	47,479,747 ± 4,133.555	46,539 ± 7.000	99.90
+
+Note: Deployment gas is excluded. Gas reduction is relative to PER_SHARE.

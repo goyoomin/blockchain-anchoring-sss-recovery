@@ -1,0 +1,1220 @@
+{
+  "publication_assets_version": "MDPI_PUBLICATION_ASSETS_V1_PEDIN_EXTENSION_1",
+  "generated_at": "2026-08-11T17:44:22.803Z",
+  "status": "VALID",
+  "input_policy": "Existing assets retain their validated Final Statistics sources; Pedin extension values are read only from frozen Pedin Statistics and validated Final Statistics. Raw files are integrity checks only.",
+  "source_files": [
+    {
+      "relative_path": "comparisons/pedin_2023/documentation/PEDIN_ASSUMPTION_REGISTER.md",
+      "size_bytes": 4253,
+      "sha256": "20fd05660bf291f538a60ae67153ff707905fdbe46f2f9675a99152a11319449"
+    },
+    {
+      "relative_path": "comparisons/pedin_2023/documentation/PEDIN_SOURCE_AUDIT.md",
+      "size_bytes": 9019,
+      "sha256": "2fc8b3053708bfe8e222c79fbc0475932aaa51fb4071fd4e5b6011959ecb527d"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_execution_feasibility.csv",
+      "size_bytes": 1234,
+      "sha256": "bc085d0659c9d0e0287b2f40aca64737e7fd2c547e0237b0eed20ef5f1fcd8ed"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_gas_comparison.csv",
+      "size_bytes": 1435,
+      "sha256": "bb44d9235250021c9536d2bf6e2a2a6b93ad808e08e8f1d26cc112ed2943f427"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_gas_statistics.csv",
+      "size_bytes": 2642,
+      "sha256": "60efb37faefbbb12a9bac8038908e6905c0d03ebe2cb02e9177ce5c02684655d"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_publication_values.csv",
+      "size_bytes": 1208,
+      "sha256": "5a696551e25c9314a7c08f1470161227b9cc02271c9ae58c36b7a8f58c98b1c9"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_comparison.csv",
+      "size_bytes": 2017,
+      "sha256": "8e90e0455627d9eb4d220c760d198a47b99a8508de4296a67de005fe7d1292e3"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_component_statistics.csv",
+      "size_bytes": 10311,
+      "sha256": "222ad46d909ba040636e969e9a787c8c4fd7ee4b662a3767c37157c4d4297873"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_paired_comparison.csv",
+      "size_bytes": 1556,
+      "sha256": "0ff8aec5bc2122d89f29405efc78156a48903ddcb8f774551f96979c6e66ff1d"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_recovery_statistics.csv",
+      "size_bytes": 3288,
+      "sha256": "3d1c4875d9e1c0413cec7250be9374ecc2c4163ced719dc5343eb7ef3ec8a9ea"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_scalability_summary.csv",
+      "size_bytes": 1319,
+      "sha256": "e7f217f804273dfc5187e7c9d1a13b31fcbbd9883a72ef437decd50a9b7c13da"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/FINAL_STATISTICAL_ANALYSIS.md",
+      "size_bytes": 1904,
+      "sha256": "e4ee2439bb8c12099c7b3bb54632a2c253017abc49246f1f122e939af49dd665"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_statistics_manifest.json",
+      "size_bytes": 4956,
+      "sha256": "f28ef90b40346208f203bdb77091074b7a8b9ecee81c31563b3b6fdb0b3849ba"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/FINAL_STATISTICS_TABLES.md",
+      "size_bytes": 2726,
+      "sha256": "c5b70a1138c0eb7e3e7bf9caf1d1defe0e417108e0420ba4f2f0711426991ebd"
+    },
+    {
+      "relative_path": "results/analysis/final_statistics/final_transaction_count.csv",
+      "size_bytes": 220,
+      "sha256": "d2baebc2b5256a4aea7772a9ca769bb57a0c8dc4454e79aeee879498e821c346"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/PEDIN_BASELINE_ANALYSIS.md",
+      "size_bytes": 889,
+      "sha256": "559f7e5e40d7bc540266739c21d9c21ca04609f08b323234cdf875a850a25113"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_comparison.csv",
+      "size_bytes": 1723,
+      "sha256": "d081e70118458d6d85b35c332c255f83bb1b84e882cae6a8a8556c9c7c49b4a7"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_statistics.csv",
+      "size_bytes": 848,
+      "sha256": "25e523cef36cd378ead83e4ef941f8d71743e4bacf25c14920b2957be31109fa"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_execution_feasibility.csv",
+      "size_bytes": 559,
+      "sha256": "a521eaa5c15562a2688a744ae143ff151c0efec4d0f4c4a2bfcf6452fe584440"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/PEDIN_METHOD_FIDELITY.md",
+      "size_bytes": 543,
+      "sha256": "00196f2ad0ce197c206a07e659fd262fb8ba858b7fb779ebbe5e20f5b8ec49d2"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_normalized_scalability.csv",
+      "size_bytes": 897,
+      "sha256": "2d03d8d3464ad77df3db6818d78c4621f28559ef6aa0f3ccaa864fcce8ca6406"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_paper_grid_statistics.csv",
+      "size_bytes": 2232,
+      "sha256": "5026dab331b55f5013ab7f047fde23052d45b5c3d35bd44ea81238fa1e749910"
+    },
+    {
+      "relative_path": "results/pedin_baseline/analysis/pedin_scalability_analysis.csv",
+      "size_bytes": 276,
+      "sha256": "42a991621a9eb08e1bf6d7275f936843bc1cf8be0d0afcdbbfd97b38cf75b6d4"
+    },
+    {
+      "relative_path": "results/pedin_baseline/final_freeze/pedin_freeze_manifest.json",
+      "size_bytes": 2824,
+      "sha256": "fe010097e7509299092eedf217628b5a9a15c7bfbf48efa6a0726911ca304b1c"
+    }
+  ],
+  "frozen_raw_hashes_from_final_statistics_manifest": {
+    "main": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+    "recovery_counterbalanced": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942"
+  },
+  "final_metric_sources": {
+    "gas": "MAIN_FINAL_STATISTICS",
+    "recovery": "COUNTERBALANCED_FINAL_STATISTICS",
+    "transaction_count": "MAIN_FINAL_STATISTICS"
+  },
+  "figures": [
+    {
+      "figure_id": "figure1_gas_linear",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "c2db71688f10af612ec8f01024098654a0e3421784d05b2539db64ef277096ce",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_linear_single.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_linear_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_linear_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure1_gas_linear",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "c2db71688f10af612ec8f01024098654a0e3421784d05b2539db64ef277096ce",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_linear_double.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_linear_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_linear_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure1_gas_log",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "16e4fd05b7f1d92fc7e567cc021f716f04981b4d3dc9dc24847ea3d1608c2efb",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_log_single.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_log_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_log_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure1_gas_log",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "16e4fd05b7f1d92fc7e567cc021f716f04981b4d3dc9dc24847ea3d1608c2efb",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure1_gas_log_double.png",
+        "svg": "results/publication_assets/figures/svg/figure1_gas_log_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure1_gas_log_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure2_recovery_time",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "393233e38c6333e29bd256eba8ce2e676088ab968675a06a917551472e8bfe8d",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure2_recovery_time_single.png",
+        "svg": "results/publication_assets/figures/svg/figure2_recovery_time_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure2_recovery_time_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure2_recovery_time",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "393233e38c6333e29bd256eba8ce2e676088ab968675a06a917551472e8bfe8d",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure2_recovery_time_double.png",
+        "svg": "results/publication_assets/figures/svg/figure2_recovery_time_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure2_recovery_time_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure3_transaction_count",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "e0c732cba2f127540e8596e695f55f71be457ce77514b18ddabe34729198626c",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure3_transaction_count_single.png",
+        "svg": "results/publication_assets/figures/svg/figure3_transaction_count_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure3_transaction_count_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure3_transaction_count",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "e0c732cba2f127540e8596e695f55f71be457ce77514b18ddabe34729198626c",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure3_transaction_count_double.png",
+        "svg": "results/publication_assets/figures/svg/figure3_transaction_count_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure3_transaction_count_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure4_gas_reduction",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "fd2a3d678047f331130f3fab9d9aa8a59dd3606f4d6c356b41604fe74f3e9cc4",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure4_gas_reduction_single.png",
+        "svg": "results/publication_assets/figures/svg/figure4_gas_reduction_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure4_gas_reduction_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure4_gas_reduction",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "fd2a3d678047f331130f3fab9d9aa8a59dd3606f4d6c356b41604fe74f3e9cc4",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure4_gas_reduction_double.png",
+        "svg": "results/publication_assets/figures/svg/figure4_gas_reduction_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure4_gas_reduction_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_full",
+      "role": "SUPPLEMENTARY",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 1250,
+      "png_dpi": 300,
+      "plotted_data_sha256": "1a65553f37f5cf080f334cad994c76ddb65e476a2f2767bc11be3e17da815879",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_full_single.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_full_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_full_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_full",
+      "role": "SUPPLEMENTARY",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1100,
+      "png_dpi": 300,
+      "plotted_data_sha256": "1a65553f37f5cf080f334cad994c76ddb65e476a2f2767bc11be3e17da815879",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_full_double.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_full_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_full_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_representative",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 1500,
+      "png_dpi": 300,
+      "plotted_data_sha256": "875a7ccb39cd11e5dadfa1d757ea8133a8a3f4b64eaccdb3de878824f61642e8",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_representative_single.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_representative_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure5_recovery_components_representative",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 900,
+      "png_dpi": 300,
+      "plotted_data_sha256": "875a7ccb39cd11e5dadfa1d757ea8133a8a3f4b64eaccdb3de878824f61642e8",
+      "files": {
+        "png": "results/publication_assets/figures/png/figure5_recovery_components_representative_double.png",
+        "svg": "results/publication_assets/figures/svg/figure5_recovery_components_representative_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_double.pdf"
+      }
+    },
+    {
+      "figure_id": "appendix_figure_a_recovery_paired_delta",
+      "role": "SUPPLEMENTARY",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "plotted_data_sha256": "ffb88d2b2ca3aa980ceddb2c2f200b7a2e2225b8f556bd4bc23f95bcffc56baa",
+      "files": {
+        "png": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_single.png",
+        "svg": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_single.pdf"
+      }
+    },
+    {
+      "figure_id": "appendix_figure_a_recovery_paired_delta",
+      "role": "SUPPLEMENTARY",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "plotted_data_sha256": "ffb88d2b2ca3aa980ceddb2c2f200b7a2e2225b8f556bd4bc23f95bcffc56baa",
+      "files": {
+        "png": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_double.png",
+        "svg": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure6_pedin_paper_grid_setup_gas",
+      "figure_number": "Figure 6",
+      "title": "Pedin Paper-Guided Merkle-SHA256 Setup Gas",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "numeric_x_axis": true,
+      "plotted_data_sha256": "4bd302391bed3a1ddd3a55010cd0a8a7c75cb264443efcee44305273dcfb178d",
+      "source_files": [
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_paper_grid_statistics.csv",
+          "size_bytes": 2232,
+          "sha256": "5026dab331b55f5013ab7f047fde23052d45b5c3d35bd44ea81238fa1e749910"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_scalability_analysis.csv",
+          "size_bytes": 276,
+          "sha256": "42a991621a9eb08e1bf6d7275f936843bc1cf8be0d0afcdbbfd97b38cf75b6d4"
+        }
+      ],
+      "files": {
+        "png": "results/publication_assets/figures/png/figure6_pedin_paper_grid_setup_gas_single.png",
+        "svg": "results/publication_assets/figures/svg/figure6_pedin_paper_grid_setup_gas_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure6_pedin_paper_grid_setup_gas_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure6_pedin_paper_grid_setup_gas",
+      "figure_number": "Figure 6",
+      "title": "Pedin Paper-Guided Merkle-SHA256 Setup Gas",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "numeric_x_axis": true,
+      "plotted_data_sha256": "4bd302391bed3a1ddd3a55010cd0a8a7c75cb264443efcee44305273dcfb178d",
+      "source_files": [
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_paper_grid_statistics.csv",
+          "size_bytes": 2232,
+          "sha256": "5026dab331b55f5013ab7f047fde23052d45b5c3d35bd44ea81238fa1e749910"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_scalability_analysis.csv",
+          "size_bytes": 276,
+          "sha256": "42a991621a9eb08e1bf6d7275f936843bc1cf8be0d0afcdbbfd97b38cf75b6d4"
+        }
+      ],
+      "files": {
+        "png": "results/publication_assets/figures/png/figure6_pedin_paper_grid_setup_gas_double.png",
+        "svg": "results/publication_assets/figures/svg/figure6_pedin_paper_grid_setup_gas_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure6_pedin_paper_grid_setup_gas_double.pdf"
+      }
+    },
+    {
+      "figure_id": "figure7_normalized_common_grid_scalability",
+      "figure_number": "Figure 7",
+      "title": "Normalized Gas Scaling on the Common Grid",
+      "role": "MAIN_TEXT",
+      "variant": "single",
+      "width_px": 1016,
+      "height_px": 780,
+      "png_dpi": 300,
+      "numeric_x_axis": true,
+      "plotted_data_sha256": "c4794de293c7fc68e79e61ceca66990f9213bc495b78aa97670817ad056c34bb",
+      "source_files": [
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_comparison.csv",
+          "size_bytes": 1723,
+          "sha256": "d081e70118458d6d85b35c332c255f83bb1b84e882cae6a8a8556c9c7c49b4a7"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_normalized_scalability.csv",
+          "size_bytes": 897,
+          "sha256": "2d03d8d3464ad77df3db6818d78c4621f28559ef6aa0f3ccaa864fcce8ca6406"
+        },
+        {
+          "relative_path": "results/analysis/final_statistics/final_gas_comparison.csv",
+          "size_bytes": 1435,
+          "sha256": "bb44d9235250021c9536d2bf6e2a2a6b93ad808e08e8f1d26cc112ed2943f427"
+        },
+        {
+          "relative_path": "results/analysis/final_statistics/final_transaction_count.csv",
+          "size_bytes": 220,
+          "sha256": "d2baebc2b5256a4aea7772a9ca769bb57a0c8dc4454e79aeee879498e821c346"
+        }
+      ],
+      "files": {
+        "png": "results/publication_assets/figures/png/figure7_normalized_common_grid_scalability_single.png",
+        "svg": "results/publication_assets/figures/svg/figure7_normalized_common_grid_scalability_single.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure7_normalized_common_grid_scalability_single.pdf"
+      }
+    },
+    {
+      "figure_id": "figure7_normalized_common_grid_scalability",
+      "figure_number": "Figure 7",
+      "title": "Normalized Gas Scaling on the Common Grid",
+      "role": "MAIN_TEXT",
+      "variant": "double",
+      "width_px": 2100,
+      "height_px": 1200,
+      "png_dpi": 300,
+      "numeric_x_axis": true,
+      "plotted_data_sha256": "c4794de293c7fc68e79e61ceca66990f9213bc495b78aa97670817ad056c34bb",
+      "source_files": [
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_comparison.csv",
+          "size_bytes": 1723,
+          "sha256": "d081e70118458d6d85b35c332c255f83bb1b84e882cae6a8a8556c9c7c49b4a7"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_normalized_scalability.csv",
+          "size_bytes": 897,
+          "sha256": "2d03d8d3464ad77df3db6818d78c4621f28559ef6aa0f3ccaa864fcce8ca6406"
+        },
+        {
+          "relative_path": "results/analysis/final_statistics/final_gas_comparison.csv",
+          "size_bytes": 1435,
+          "sha256": "bb44d9235250021c9536d2bf6e2a2a6b93ad808e08e8f1d26cc112ed2943f427"
+        },
+        {
+          "relative_path": "results/analysis/final_statistics/final_transaction_count.csv",
+          "size_bytes": 220,
+          "sha256": "d2baebc2b5256a4aea7772a9ca769bb57a0c8dc4454e79aeee879498e821c346"
+        }
+      ],
+      "files": {
+        "png": "results/publication_assets/figures/png/figure7_normalized_common_grid_scalability_double.png",
+        "svg": "results/publication_assets/figures/svg/figure7_normalized_common_grid_scalability_double.svg",
+        "pdf": "results/publication_assets/figures/pdf/figure7_normalized_common_grid_scalability_double.pdf"
+      }
+    }
+  ],
+  "figure_count": 10,
+  "figure_render_count": 20,
+  "tables": [
+    {
+      "table_id": "table1_experimental_configuration",
+      "table_number": "Table 1",
+      "title": "Experimental Configuration",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table1_experimental_configuration.csv",
+        "markdown": "results/publication_assets/tables/md/table1_experimental_configuration.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table1_experimental_configuration.txt"
+      }
+    },
+    {
+      "table_id": "table2_anchoring_gas",
+      "table_number": "Table 2",
+      "title": "Cumulative Anchoring Gas Results",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table2_anchoring_gas.csv",
+        "markdown": "results/publication_assets/tables/md/table2_anchoring_gas.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table2_anchoring_gas.txt"
+      }
+    },
+    {
+      "table_id": "table3_recovery_time",
+      "table_number": "Table 3",
+      "title": "Counterbalanced Recovery Time Results",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table3_recovery_time.csv",
+        "markdown": "results/publication_assets/tables/md/table3_recovery_time.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table3_recovery_time.txt"
+      }
+    },
+    {
+      "table_id": "table4_transactions_feasibility",
+      "table_number": "Table 4",
+      "title": "Transaction Count and Execution Feasibility",
+      "role": "MAIN_TEXT",
+      "row_count": 7,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table4_transactions_feasibility.csv",
+        "markdown": "results/publication_assets/tables/md/table4_transactions_feasibility.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table4_transactions_feasibility.txt"
+      }
+    },
+    {
+      "table_id": "table5_recovery_components",
+      "table_number": "Table 5",
+      "title": "Representative Recovery Component Summary",
+      "role": "MAIN_TEXT",
+      "row_count": 6,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table5_recovery_components.csv",
+        "markdown": "results/publication_assets/tables/md/table5_recovery_components.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table5_recovery_components.txt"
+      }
+    },
+    {
+      "table_id": "table_s1_recovery_components_full",
+      "table_number": "Table S1",
+      "title": "Full Recovery Component Summary",
+      "role": "SUPPLEMENTARY",
+      "row_count": 14,
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table_s1_recovery_components_full.csv",
+        "markdown": "results/publication_assets/tables/md/table_s1_recovery_components_full.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table_s1_recovery_components_full.txt"
+      }
+    },
+    {
+      "table_id": "table6_pedin_paper_grid_results",
+      "table_number": "Table 6",
+      "title": "Table 6. Pedin Paper-Guided Merkle-SHA256 Setup Results",
+      "role": "MAIN_TEXT",
+      "row_count": 13,
+      "source_files": [
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_paper_grid_statistics.csv",
+          "size_bytes": 2232,
+          "sha256": "5026dab331b55f5013ab7f047fde23052d45b5c3d35bd44ea81238fa1e749910"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_execution_feasibility.csv",
+          "size_bytes": 559,
+          "sha256": "a521eaa5c15562a2688a744ae143ff151c0efec4d0f4c4a2bfcf6452fe584440"
+        }
+      ],
+      "value_data_sha256": "7412679bb881c0090478d4ba7e24abecae5018284b8e4ccc3aea5d250c502aff",
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table6_pedin_paper_grid_results.csv",
+        "markdown": "results/publication_assets/tables/md/table6_pedin_paper_grid_results.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table6_pedin_paper_grid_results.txt"
+      }
+    },
+    {
+      "table_id": "table7_common_grid_scalability_comparison",
+      "table_number": "Table 7",
+      "title": "Table 7. Common-Grid Gas Scalability Comparison",
+      "role": "MAIN_TEXT",
+      "row_count": 12,
+      "source_files": [
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_comparison.csv",
+          "size_bytes": 1723,
+          "sha256": "d081e70118458d6d85b35c332c255f83bb1b84e882cae6a8a8556c9c7c49b4a7"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/pedin_normalized_scalability.csv",
+          "size_bytes": 897,
+          "sha256": "2d03d8d3464ad77df3db6818d78c4621f28559ef6aa0f3ccaa864fcce8ca6406"
+        },
+        {
+          "relative_path": "results/analysis/final_statistics/final_gas_comparison.csv",
+          "size_bytes": 1435,
+          "sha256": "bb44d9235250021c9536d2bf6e2a2a6b93ad808e08e8f1d26cc112ed2943f427"
+        },
+        {
+          "relative_path": "results/analysis/final_statistics/final_transaction_count.csv",
+          "size_bytes": 220,
+          "sha256": "d2baebc2b5256a4aea7772a9ca769bb57a0c8dc4454e79aeee879498e821c346"
+        }
+      ],
+      "value_data_sha256": "e1c2d1e3d85c9bd2655b3d720f8a0478e5965ba5ef5f2821a2a64baaba97b4f8",
+      "files": {
+        "csv": "results/publication_assets/tables/csv/table7_common_grid_scalability_comparison.csv",
+        "markdown": "results/publication_assets/tables/md/table7_common_grid_scalability_comparison.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/table7_common_grid_scalability_comparison.txt"
+      }
+    },
+    {
+      "table_id": "tableS2_pedin_method_fidelity",
+      "table_number": "Table S2",
+      "title": "Table S2. Fidelity and Controlled Assumptions of the Pedin Paper-Guided Baseline",
+      "role": "SUPPLEMENTARY",
+      "row_count": 21,
+      "source_files": [
+        {
+          "relative_path": "comparisons/pedin_2023/documentation/PEDIN_SOURCE_AUDIT.md",
+          "size_bytes": 9019,
+          "sha256": "2fc8b3053708bfe8e222c79fbc0475932aaa51fb4071fd4e5b6011959ecb527d"
+        },
+        {
+          "relative_path": "comparisons/pedin_2023/documentation/PEDIN_ASSUMPTION_REGISTER.md",
+          "size_bytes": 4253,
+          "sha256": "20fd05660bf291f538a60ae67153ff707905fdbe46f2f9675a99152a11319449"
+        },
+        {
+          "relative_path": "results/pedin_baseline/analysis/PEDIN_METHOD_FIDELITY.md",
+          "size_bytes": 543,
+          "sha256": "00196f2ad0ce197c206a07e659fd262fb8ba858b7fb779ebbe5e20f5b8ec49d2"
+        }
+      ],
+      "value_data_sha256": "34fe696db1856b219aa18f8956bd2b09935b4a24a01355ef5fb774d238f1e317",
+      "files": {
+        "csv": "results/publication_assets/tables/csv/tableS2_pedin_method_fidelity.csv",
+        "markdown": "results/publication_assets/tables/md/tableS2_pedin_method_fidelity.md",
+        "doc_ready": "results/publication_assets/tables/doc_ready/tableS2_pedin_method_fidelity.txt"
+      }
+    }
+  ],
+  "table_count": 9,
+  "captions": [
+    "results/publication_assets/captions/figure_captions.md",
+    "results/publication_assets/captions/table_captions.md"
+  ],
+  "overview": "results/publication_assets/PUBLICATION_ASSETS_OVERVIEW.md",
+  "generated_asset_hashes": [
+    {
+      "relative_path": "results/publication_assets/captions/figure_captions.md",
+      "size_bytes": 3055,
+      "sha256": "42c26db47abe68175344b741a33139b48e5b7c21401c0f33cf257e99a237c6a3"
+    },
+    {
+      "relative_path": "results/publication_assets/captions/table_captions.md",
+      "size_bytes": 1738,
+      "sha256": "c8994441abd4809ae85bcffdd56c980a58755a0953c61a90e7bdd9fcd9fef228"
+    },
+    {
+      "relative_path": "results/publication_assets/documentation/PEDIN_PUBLICATION_INTERPRETATION.md",
+      "size_bytes": 1723,
+      "sha256": "38733b17c49ea19d65c9f6e1f3c888eaf5a7d9538d0e01bc2c90896269c56b98"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_double.pdf",
+      "size_bytes": 41044,
+      "sha256": "3dc82001f4ddd2ed52ae9f2b15290b01e9a96e581930ac255008df7830e789ef"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/appendix_figure_a_recovery_paired_delta_single.pdf",
+      "size_bytes": 40504,
+      "sha256": "fb48c416222490d1432cec9a53862374453a7f8a87e315ca3c37285cdcf52cb1"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_linear_double.pdf",
+      "size_bytes": 54147,
+      "sha256": "0896077226f42dcf3ad95c4383a62953264022f8d9592d232fe49bbd1edde036"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_linear_single.pdf",
+      "size_bytes": 50418,
+      "sha256": "c758e534519575b5de0c9c62db5ed605dbc2923fc3fd706ba6dc9aa910b94e9e"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_log_double.pdf",
+      "size_bytes": 58576,
+      "sha256": "2fdaca4e560a64f283b242097298c582407d88991d6090599dd51ad98136f9c8"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure1_gas_log_single.pdf",
+      "size_bytes": 53717,
+      "sha256": "9a456d73d16ba6d36073c400a53759b137f8f157f83be2de81c9a1a5e7e5f184"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure2_recovery_time_double.pdf",
+      "size_bytes": 67589,
+      "sha256": "e5187fb5896557b044fd2b200676d03fc43c9383483685961b8e659b4c23fcd7"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure2_recovery_time_single.pdf",
+      "size_bytes": 58400,
+      "sha256": "a2eb84f40ce30e9f44cb6aff46a8504cb0e8ac4db60931783c6ddee8e6966971"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure3_transaction_count_double.pdf",
+      "size_bytes": 50035,
+      "sha256": "2bad11dd9f1984e159870b404e1e82bc145f0566183647bfdc57a78a8b676d32"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure3_transaction_count_single.pdf",
+      "size_bytes": 46324,
+      "sha256": "5c421164d9fc048860ee203ea1b6d16b9b3c36f333a01012d58116e49cf20ba9"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure4_gas_reduction_double.pdf",
+      "size_bytes": 45435,
+      "sha256": "97360b6f11ccf0f33b5533f681a527c868d7a4695fc68a7f94d1da60f40f6a5e"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure4_gas_reduction_single.pdf",
+      "size_bytes": 45346,
+      "sha256": "bb8c735911480085677f2241360e5915aaded254609b24c5a9a4709ecc340003"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_full_double.pdf",
+      "size_bytes": 1444256,
+      "sha256": "de635cb60eb7865d575c03f8ea1f0cfe49d0bafd944d23736f3ab172a2acd286"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_full_single.pdf",
+      "size_bytes": 640918,
+      "sha256": "ee359ee7b9c54a9fc89ef11fdd0accdb3e28bb4a8b0412b71ec986e9c912a6a5"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_double.pdf",
+      "size_bytes": 596913,
+      "sha256": "eb74a844628918c7ce08398450df3c7d06cf9a55c0132a2360f01496220d9d88"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure5_recovery_components_representative_single.pdf",
+      "size_bytes": 376179,
+      "sha256": "3ccb657e34ab80511be6aed1302f89e4fa7aef74db3ed65581dcd8c87d644b7d"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure6_pedin_paper_grid_setup_gas_double.pdf",
+      "size_bytes": 48720,
+      "sha256": "89b7c52b0bd94fc98d9f116073ac4303e963b52d53cb6946ca0d9b5649e49271"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure6_pedin_paper_grid_setup_gas_single.pdf",
+      "size_bytes": 46680,
+      "sha256": "a7681e8a4bdd99057bb230be5bae35d55a02f41f9a5e3e31abaf38fd6c61014a"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure7_normalized_common_grid_scalability_double.pdf",
+      "size_bytes": 48494,
+      "sha256": "7f820a846966f7498260fe68d04fc2f844265641133c233ac616787ecd11a72e"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/pdf/figure7_normalized_common_grid_scalability_single.pdf",
+      "size_bytes": 46744,
+      "sha256": "2f514f5955846d308414ae77f40b7426ebc7dc082dac550cc5452763f8b2ddb1"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_double.png",
+      "size_bytes": 72095,
+      "sha256": "3fe86fb803010932b4b9c70739c2c0f8d3c7e0255c5ef2bd3af0cca1051aea70"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/appendix_figure_a_recovery_paired_delta_single.png",
+      "size_bytes": 43196,
+      "sha256": "5fc3cb5db3c5d8e1028b1c0516d88810c8f2bbaa12a2a3893d89c6ce41bee232"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_linear_double.png",
+      "size_bytes": 82748,
+      "sha256": "7fc4e7f7e566f510d98aa4deebc220e99666bc28217a296d197eb4539415cfe4"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_linear_single.png",
+      "size_bytes": 49169,
+      "sha256": "8a0e3613d629f2f07fc41cba81b4933292e2c08853b31f3b6877208cc5eaeb20"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_log_double.png",
+      "size_bytes": 98206,
+      "sha256": "4c649c4fbe72c961ec4b58bc1e17f569675792017eddeea60fbae69a64e02acc"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure1_gas_log_single.png",
+      "size_bytes": 60176,
+      "sha256": "da02a9b570e08205c5d8b427c19cbfe35e177a5e9d2c1f892ef8358d1408b0b9"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure2_recovery_time_double.png",
+      "size_bytes": 95879,
+      "sha256": "e741839054047a9e9907baf072f8ff1cf94948ed36cb1a7941fd59ea9fcb5dfe"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure2_recovery_time_single.png",
+      "size_bytes": 54569,
+      "sha256": "5247159f6107752491281c452ce9ff9a7a0386220b4ca74e1b159550807b8052"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure3_transaction_count_double.png",
+      "size_bytes": 78216,
+      "sha256": "b56515326fb1adfa9aa7d0e97cfd8f80d112d92d4cba175b6c07fa25b4ae4433"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure3_transaction_count_single.png",
+      "size_bytes": 47352,
+      "sha256": "1b82c6810a913fde75dfdd4c8193c566d48bd5abf55e7f39caff46bdd0547d48"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure4_gas_reduction_double.png",
+      "size_bytes": 92602,
+      "sha256": "ed9e4844d431e4f76ff3ce156439dd64410c9bf88565766343c657f28c1bb1b6"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure4_gas_reduction_single.png",
+      "size_bytes": 56526,
+      "sha256": "2fb88334bb1bb218a6edd7b452fb9a3482d0f7fca29142ca01cc71358f755638"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_full_double.png",
+      "size_bytes": 89569,
+      "sha256": "986420346f954fc5ddea790fd2f89df88832f05842d06f5e9dce4fc79314db3d"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_full_single.png",
+      "size_bytes": 68868,
+      "sha256": "cd79ab79cd47f00d27d88f53838ab05215d146f717f0be61091fa44a50580f46"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_representative_double.png",
+      "size_bytes": 91888,
+      "sha256": "38d8fa91cdc4773414689f7e75911cbfd831d9c52673b4295ea54241bdeb75bd"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure5_recovery_components_representative_single.png",
+      "size_bytes": 68946,
+      "sha256": "e3abd0852587e04138c5e8d22bc243e0c90f1a50727d4378e92b1c21cce9de11"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure6_pedin_paper_grid_setup_gas_double.png",
+      "size_bytes": 97407,
+      "sha256": "6a8ad2532480730bc7676a1e5e6f157203cd7b5fc4dc9adbe9e3f565e3555afb"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure6_pedin_paper_grid_setup_gas_single.png",
+      "size_bytes": 56094,
+      "sha256": "ea20a37cea8bdc94ab9d89fadbe5a85a19a6dfd728e59a1c6ac6672f3a44cb5c"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure7_normalized_common_grid_scalability_double.png",
+      "size_bytes": 99534,
+      "sha256": "b25b46977785061fb6d7ebbbf87e0cb145338436109f32194e6550be51b017f9"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/png/figure7_normalized_common_grid_scalability_single.png",
+      "size_bytes": 54147,
+      "sha256": "aaab825f36f8af00aed3b504cb27cbb8a631ae6b53cd6b185367f085b7f4de69"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_double.svg",
+      "size_bytes": 8467,
+      "sha256": "7cf497f5db54879bfc95488421269eea7502959ecee1952eb2be0428257d5eed"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/appendix_figure_a_recovery_paired_delta_single.svg",
+      "size_bytes": 8877,
+      "sha256": "9e04722ab44829e807296338103043293906e974ff48391b5627d90e06417161"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_linear_double.svg",
+      "size_bytes": 13978,
+      "sha256": "55dedb1b9464f3f3aacaaaa3e102c0d9d1f7cc1c5497c76ca50481420d6fe6bb"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_linear_single.svg",
+      "size_bytes": 12757,
+      "sha256": "65fff3865884d9f29154ea7db025eba414dd2e85b269122df4fbf5ac93cc8c7d"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_log_double.svg",
+      "size_bytes": 14156,
+      "sha256": "1048afcddc7afc9a340ef2af7669478cc6af1c04160880713b0e072b31f50a1a"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure1_gas_log_single.svg",
+      "size_bytes": 13178,
+      "sha256": "2df6bc2748f22e2bf2c822352a29cd854bb6f841f6b8209fe4ea09805eb50003"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure2_recovery_time_double.svg",
+      "size_bytes": 15054,
+      "sha256": "960694d69161bdc441dcf5a52e3104463c8a8602a1a7675d738571211e68e423"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure2_recovery_time_single.svg",
+      "size_bytes": 13833,
+      "sha256": "fec53c5be58994717c2c2e2c1c87cbee3c6b92a5099a8ebbc9be93298a489477"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure3_transaction_count_double.svg",
+      "size_bytes": 7217,
+      "sha256": "4c9df60d777522472e3302ffc2928a46b6bad67392cc903ecc0d3a5f11a45042"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure3_transaction_count_single.svg",
+      "size_bytes": 6588,
+      "sha256": "23faf55c83db749e7773faad774dbdc57e82b2a4b01829ac02242ae7ca7cd433"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure4_gas_reduction_double.svg",
+      "size_bytes": 7389,
+      "sha256": "5eaa4aad73a34b408552d800668ec24cd3dac95c08f2434dd97df7079a13f590"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure4_gas_reduction_single.svg",
+      "size_bytes": 6741,
+      "sha256": "24b95663cfc220998cb35275e630b1ab3b9671e9d923bc00fd1f2f6f23cfda45"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_full_double.svg",
+      "size_bytes": 21239,
+      "sha256": "d84e57e25fbed4c1368d52cee7fcfc2d6179f0dbb7dc8882eba04e67b21fd939"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_full_single.svg",
+      "size_bytes": 21076,
+      "sha256": "ac133cc5d1d87d638d98d0515ce1bd34f87334ed8e1e830043675b0eddef8c73"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_representative_double.svg",
+      "size_bytes": 13981,
+      "sha256": "34436c9738b939b87de7d45a44a72167e99c44baf0abcc21aba08ac820e54b72"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure5_recovery_components_representative_single.svg",
+      "size_bytes": 13443,
+      "sha256": "c60c42c40416da7d9bcdbe9acdb0d0705b94de13ae7ec0b2f5844cdbbee7623b"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure6_pedin_paper_grid_setup_gas_double.svg",
+      "size_bytes": 16043,
+      "sha256": "40721377c4baf63a7154a85e4d44dbbe88bfdb417b3a150498e1dba1d4181dfd"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure6_pedin_paper_grid_setup_gas_single.svg",
+      "size_bytes": 13766,
+      "sha256": "ab0f7a6952c475e102482834490df95c713f8c80f053a160259be4452f4b113b"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure7_normalized_common_grid_scalability_double.svg",
+      "size_bytes": 7540,
+      "sha256": "4be5d5f4efcab7f28490fbf7b189637811c288d7b2308d6abd4656cddb4d8de0"
+    },
+    {
+      "relative_path": "results/publication_assets/figures/svg/figure7_normalized_common_grid_scalability_single.svg",
+      "size_bytes": 7054,
+      "sha256": "2348a3b7b008aaed4bcea94d005eb0d5cc5c6f00a2bf98277d5828d7b80d9fa9"
+    },
+    {
+      "relative_path": "results/publication_assets/PUBLICATION_ASSETS_OVERVIEW.md",
+      "size_bytes": 2363,
+      "sha256": "2302a997248790984749b09401504c9e2d50cbf9d70108e6b77aa2e95b461044"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table_s1_recovery_components_full.csv",
+      "size_bytes": 709,
+      "sha256": "a8e884ac9691c933d8ddd1534f8380e53bf5f8926d079addd0aede33d2faddf4"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table1_experimental_configuration.csv",
+      "size_bytes": 315,
+      "sha256": "f8ce6a60f40a84598a61c119a47256768fe2deef6bc97aa191c81b1b32388396"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table2_anchoring_gas.csv",
+      "size_bytes": 416,
+      "sha256": "2fb26e5b9e28168e1c61e4ac91f3f94efbd3d09043b35d6b4db86f56a92eded2"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table3_recovery_time.csv",
+      "size_bytes": 538,
+      "sha256": "92dfcb1f8322251b58c83a8290deb677a77032d617681d732d82a063624a9c3f"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table4_transactions_feasibility.csv",
+      "size_bytes": 262,
+      "sha256": "9e33b7ff6a22651b9893da0af096664bc3ed39de701a7e40a6fb4d000a8301e3"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table5_recovery_components.csv",
+      "size_bytes": 347,
+      "sha256": "8376d094de175a8106a3a073a15743e6e855274cb17dc1b1b407fbb1efb8bfd1"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table6_pedin_paper_grid_results.csv",
+      "size_bytes": 1055,
+      "sha256": "4e6c6b61b935fccfd015cdf9c46c0f1a6b48e20b826578b4c4906ce99e1c6b92"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/table7_common_grid_scalability_comparison.csv",
+      "size_bytes": 808,
+      "sha256": "2332d74187d22511a29eeb571628beff1a38cb9448355d1ce11230cc61b5f782"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/csv/tableS2_pedin_method_fidelity.csv",
+      "size_bytes": 5843,
+      "sha256": "fb18f1321147f9b20560c00b2664e593e79b432a07cf135ce06025cd092a8de6"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table_s1_recovery_components_full.txt",
+      "size_bytes": 916,
+      "sha256": "bd0427cd17a3f7887223a9859614380bf1e6db4781edd65175b37f16e71f6181"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table1_experimental_configuration.txt",
+      "size_bytes": 493,
+      "sha256": "3df505231260bef2f61844f2c7c6fd1a22f7a29b2fe1e3ca003129cfa0a05568"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table2_anchoring_gas.txt",
+      "size_bytes": 598,
+      "sha256": "5aff6c6fe557346f2d92e62db233250ecb0a4fdd5681a1a7a364996911225603"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table3_recovery_time.txt",
+      "size_bytes": 742,
+      "sha256": "0fb9d99cca00d6ecfb6b55387549b28fca14d861f962999a9ee9f4e21a2a4cf0"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table4_transactions_feasibility.txt",
+      "size_bytes": 423,
+      "sha256": "87bd5404630ca66b1ab84d17556aa4b708b66bc7c9a6385c517b7ab86369b33e"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table5_recovery_components.txt",
+      "size_bytes": 597,
+      "sha256": "9da90121656e72f191f3ebcea2957dc74359d71bdb10922dc7174728763eb8c3"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table6_pedin_paper_grid_results.txt",
+      "size_bytes": 865,
+      "sha256": "8b8ef99d4187b68997abe2e500702621fde0f1e585d3f748e9e03b2611fe7553"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/table7_common_grid_scalability_comparison.txt",
+      "size_bytes": 905,
+      "sha256": "a8791cb502e398f74d0867c3027058ffe55620905073a7f5d1e293c4e53b5805"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/doc_ready/tableS2_pedin_method_fidelity.txt",
+      "size_bytes": 6106,
+      "sha256": "39e552578facd69cfdf13fa6a63cb2d06fb24e5bf44663b03d73583d66420d7a"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table_s1_recovery_components_full.md",
+      "size_bytes": 1209,
+      "sha256": "46ec5794ad86e504fec113ba4420480d4d37d55fb8e2b677e61904ccb6db289f"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table1_experimental_configuration.md",
+      "size_bytes": 628,
+      "sha256": "bf93afaf2588ec66d6705dd3fba38af3a7c1ef5230652fa2aedf9a24a9f7542b"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table2_anchoring_gas.md",
+      "size_bytes": 711,
+      "sha256": "cdd6244b17ff364e1b21f4815f01d53b0e7615df997ce0d410df2409ec785d70"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table3_recovery_time.md",
+      "size_bytes": 901,
+      "sha256": "0299ff6b9bc59c4a49e0e60ef0679930c9172356001b7b0fbc2957f7e49da76b"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table4_transactions_feasibility.md",
+      "size_bytes": 582,
+      "sha256": "cc523587b66ce1fdbd862734d01b9ffd961351c3a237b5763c94a0767e4d7431"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table5_recovery_components.md",
+      "size_bytes": 762,
+      "sha256": "194c0c6ba453756410083da9f72882f66a1af3495031ca51a881fe9e24652cd1"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table6_pedin_paper_grid_results.md",
+      "size_bytes": 1139,
+      "sha256": "f5633ebe0a3a976dd3c8b35bbeeb3a58297056b6f60eb978da89378e3452ca3a"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/table7_common_grid_scalability_comparison.md",
+      "size_bytes": 1131,
+      "sha256": "85a2aeb89ddfe0bba9c488a543b4eeb6358a75f3b3f235d270c6c6950f3d473f"
+    },
+    {
+      "relative_path": "results/publication_assets/tables/md/tableS2_pedin_method_fidelity.md",
+      "size_bytes": 6410,
+      "sha256": "e038076dbe21110ba4de589fc139edc45bb0311ad4ca8b9fc93cff4ca12007ce"
+    }
+  ],
+  "validation_status": "VALID",
+  "documentation": [
+    "results/publication_assets/documentation/PEDIN_PUBLICATION_INTERPRETATION.md"
+  ],
+  "frozen_raw_hashes": {
+    "pedin": "c012463d35fc5a0121806aa6b6bb0b355f5e46d40ed3c7eaa4fbd2322bd0999e",
+    "main": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+    "recovery_counterbalanced": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942"
+  },
+  "pedin_external_baseline_extension": {
+    "version": "PEDIN_PUBLICATION_EXTENSION_V1",
+    "status": "VALID",
+    "implementation_name": "Paper-guided reimplementation of Pedin et al.'s Merkle-SHA256 setup",
+    "generated_at": "2026-08-11T17:44:22.803Z",
+    "logical_figures": 2,
+    "figure_renders": 4,
+    "tables": 3,
+    "source_files": [
+      {
+        "relative_path": "results/pedin_baseline/analysis/pedin_paper_grid_statistics.csv",
+        "size_bytes": 2232,
+        "sha256": "5026dab331b55f5013ab7f047fde23052d45b5c3d35bd44ea81238fa1e749910"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_statistics.csv",
+        "size_bytes": 848,
+        "sha256": "25e523cef36cd378ead83e4ef941f8d71743e4bacf25c14920b2957be31109fa"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/pedin_scalability_analysis.csv",
+        "size_bytes": 276,
+        "sha256": "42a991621a9eb08e1bf6d7275f936843bc1cf8be0d0afcdbbfd97b38cf75b6d4"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/pedin_common_grid_comparison.csv",
+        "size_bytes": 1723,
+        "sha256": "d081e70118458d6d85b35c332c255f83bb1b84e882cae6a8a8556c9c7c49b4a7"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/pedin_normalized_scalability.csv",
+        "size_bytes": 897,
+        "sha256": "2d03d8d3464ad77df3db6818d78c4621f28559ef6aa0f3ccaa864fcce8ca6406"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/pedin_execution_feasibility.csv",
+        "size_bytes": 559,
+        "sha256": "a521eaa5c15562a2688a744ae143ff151c0efec4d0f4c4a2bfcf6452fe584440"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/PEDIN_BASELINE_ANALYSIS.md",
+        "size_bytes": 889,
+        "sha256": "559f7e5e40d7bc540266739c21d9c21ca04609f08b323234cdf875a850a25113"
+      },
+      {
+        "relative_path": "results/pedin_baseline/analysis/PEDIN_METHOD_FIDELITY.md",
+        "size_bytes": 543,
+        "sha256": "00196f2ad0ce197c206a07e659fd262fb8ba858b7fb779ebbe5e20f5b8ec49d2"
+      },
+      {
+        "relative_path": "comparisons/pedin_2023/documentation/PEDIN_SOURCE_AUDIT.md",
+        "size_bytes": 9019,
+        "sha256": "2fc8b3053708bfe8e222c79fbc0475932aaa51fb4071fd4e5b6011959ecb527d"
+      },
+      {
+        "relative_path": "comparisons/pedin_2023/documentation/PEDIN_ASSUMPTION_REGISTER.md",
+        "size_bytes": 4253,
+        "sha256": "20fd05660bf291f538a60ae67153ff707905fdbe46f2f9675a99152a11319449"
+      },
+      {
+        "relative_path": "results/pedin_baseline/final_freeze/pedin_freeze_manifest.json",
+        "size_bytes": 2824,
+        "sha256": "fe010097e7509299092eedf217628b5a9a15c7bfbf48efa6a0726911ca304b1c"
+      },
+      {
+        "relative_path": "results/analysis/final_statistics/final_gas_comparison.csv",
+        "size_bytes": 1435,
+        "sha256": "bb44d9235250021c9536d2bf6e2a2a6b93ad808e08e8f1d26cc112ed2943f427"
+      },
+      {
+        "relative_path": "results/analysis/final_statistics/final_transaction_count.csv",
+        "size_bytes": 220,
+        "sha256": "d2baebc2b5256a4aea7772a9ca769bb57a0c8dc4454e79aeee879498e821c346"
+      }
+    ],
+    "script": {
+      "relative_path": "comparisons/pedin_2023/publication/pedinPublicationAssets.js",
+      "size_bytes": 28828,
+      "sha256": "0466c5a54f57ebe67b5d41b1d5730764d7074e94d084c5beb589392622d7c9d1",
+      "version": "1.0.0"
+    },
+    "existing_asset_snapshot": "results/publication_assets/manifest/existing_assets_pre_pedin.json"
+  }
+}

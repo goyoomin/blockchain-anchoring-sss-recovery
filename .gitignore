@@ -1,0 +1,29 @@
+
+# Dependencies and generated build files
+node_modules/
+artifacts/
+cache/
+coverage/
+.portable-node/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary and pilot outputs
+results/pilot/
+
+# Keep frozen research datasets and results
+!results/
+!results/**/
+!results/**/*.csv
+!results/**/*.jsonl
+!results/environment.json

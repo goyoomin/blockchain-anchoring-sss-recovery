@@ -1,0 +1,83 @@
+{
+  "validation_version": "PEDIN_PUBLICATION_EXTENSION_V1",
+  "checked_at": "2026-08-11T17:45:00.586Z",
+  "status": "VALID",
+  "valid": true,
+  "pedin_raw_sha_valid": true,
+  "main_raw_sha_valid": true,
+  "recovery_raw_sha_valid": true,
+  "figure6_source_match": true,
+  "figure7_source_match": true,
+  "table6_source_match": true,
+  "table7_source_match": true,
+  "tableS2_fidelity_match": true,
+  "existing_assets_unchanged": true,
+  "existing_asset_files_checked": 66,
+  "logical_figures": 2,
+  "figure_renders": 4,
+  "figure_files_by_format": {
+    "png": 4,
+    "svg": 4,
+    "pdf": 4
+  },
+  "tables": 3,
+  "table_files_by_format": {
+    "csv": 3,
+    "markdown": 3,
+    "doc_ready": 3
+  },
+  "figure6": {
+    "n_count": 13,
+    "repetitions_each": [
+      30
+    ],
+    "minimum_mean_gas": 66827,
+    "maximum_mean_gas": 66830.6,
+    "absolute_mean_range_gas": 3.6000000000058208,
+    "relative_mean_range_percent": 0.005387044158806801,
+    "descriptive_slope_gas_per_guardian": -0.0027925000665530923,
+    "y_domain": [
+      66778,
+      66879
+    ],
+    "y_span_to_mean_range_ratio": 28.055555555510193,
+    "variation_not_visually_exaggerated": true
+  },
+  "figure7": {
+    "common_n": [
+      10,
+      20,
+      50,
+      100
+    ],
+    "normalization": "METHOD_SPECIFIC_N10_MEAN_EQUALS_1",
+    "normalized_values": {
+      "PEDIN_PAPER_GUIDED_SETUP": [
+        1,
+        0.9999880292206725,
+        0.9999820438310085,
+        0.9999820438310085
+      ],
+      "OUR_MERKLE_ROOT_ANCHORING": [
+        1,
+        0.9999570262140095,
+        0.9999226471852171,
+        0.9999140524280189
+      ],
+      "OUR_PER_SHARE_ANCHORING": [
+        1,
+        1.9999233208315392,
+        4.9998879304460955,
+        9.999454819538526
+      ]
+    }
+  },
+  "captions_valid": true,
+  "overview_valid": true,
+  "interpretation_valid": true,
+  "figure_source_data_digest_valid": true,
+  "table_byte_value_validation": true,
+  "affirmative_exact_reproduction_claim_absent": true,
+  "absolute_superiority_claim_absent": true,
+  "errors": []
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "dataset_id": "main_n10_run009",
+  "created_at": "2026-08-08T16:22:05.877Z",
+  "n": 10,
+  "k": 6,
+  "threshold_policy": "STRICT_MAJORITY",
+  "sss_library": "secrets.js-grempe",
+  "sss_field_bits": 8,
+  "experiment_seed": "greenfield-v1",
+  "run_seed": "greenfield-v1:main_n10_run009",
+  "seed_controls_cryptographic_rng": false,
+  "secret": "db03039d6234f6202de73c7bc884408f56ef944b18d4d5e7944f005f43ab2e57",
+  "shares": [
+    "801b2874f4be579e1b3cccffb29458708ddf585267cbaf7623d3c35df0388957c9737fbaaaa072592aef5cdb303978c419e",
+    "8021afa0faee1ac9c5a40cb769fba7824d94beacf9eab19f61357f20d6d1787981fb0e69f44db04d32e1a5a77193cdda638",
+    "80329e6042410b3c2a672b6b16de96a9565d196ba05cba0d8035d093a28bbabf9a5d3d420d4d9c35516a8eb2fc403eb18b6",
+    "8048e81c25c4e1c9de80f0d3e231a675f7a615b4ab9ccafe56e84cfd1b35f0d9daef92c202464b58df32795b764c71cbe1d",
+    "8053aa3ef3c02983c2c9138cffc9b8954bc0e0ea3db2671fecd8d70db7a6c82d2d1e59f980510030da734831ae84092500c",
+    "806a67a0487b0d2477d34ddac066da3a30b99c65e54bb4d3408a2a4582ef1dbca42edee046f05333bd9267977a195614ade",
+    "80793c36d26e83059f6545a6102fad811ad4269e74ce9e995a6b03286da2e69d89ff37b3d3f6cb37afce65c31acf9fe7588",
+    "8083581053dc53599c4ab78130302a20002ba2398ee8ed40342ae7af16bc63328f84b1b6c29e17c4b680b098ab41a44c6da",
+    "809a552d74fc0e08206bb2be1cf9ab54ca1a71da21deb734c6163cb3ab0a8a923fe6ab4bfd61b24019a7f96ffe51f56f7e2",
+    "80a177f37a759cb7d3eed6f8addaf3b0d038524d03e89c61165a9fc7ed376ce4c2d3d54dcb51d4e116579a36794d1d03448"
+  ],
+  "share_generation_time_ms": 1.0764,
+  "dataset_digest_sha256": "6c00aec09dfd5c3d274b8d997ced7a41febc4f4ad77d062a7ec77c5979572036"
+}

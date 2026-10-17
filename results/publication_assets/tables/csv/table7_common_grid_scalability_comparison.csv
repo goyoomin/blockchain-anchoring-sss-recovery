@@ -1,0 +1,13 @@
+n,mechanism,mean_gas_used,normalized_gas,transaction_count,on_chain_scope
+10,Pedin Paper-Guided,66829.4,1,1,Recovery address + Merkle root
+10,Merkle-Root,46540,1,1,Merkle root
+10,Per-Share,474705.2,1,10,n share hashes
+20,Pedin Paper-Guided,66828.6,0.9999880292206725,1,Recovery address + Merkle root
+20,Merkle-Root,46538,0.9999570262140095,1,Merkle root
+20,Per-Share,949374,1.9999233208315392,20,n share hashes
+50,Pedin Paper-Guided,66828.2,0.9999820438310085,1,Recovery address + Merkle root
+50,Merkle-Root,46536.4,0.9999226471852171,1,Merkle root
+50,Per-Share,2373472.8,4.9998879304460955,50,n share hashes
+100,Pedin Paper-Guided,66828.2,0.9999820438310085,1,Recovery address + Merkle root
+100,Merkle-Root,46536,0.9999140524280189,1,Merkle root
+100,Per-Share,4746793.2,9.999454819538526,100,n share hashes

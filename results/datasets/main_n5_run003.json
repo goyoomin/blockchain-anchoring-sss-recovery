@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "dataset_id": "main_n5_run003",
+  "created_at": "2026-08-08T16:22:03.589Z",
+  "n": 5,
+  "k": 3,
+  "threshold_policy": "STRICT_MAJORITY",
+  "sss_library": "secrets.js-grempe",
+  "sss_field_bits": 8,
+  "experiment_seed": "greenfield-v1",
+  "run_seed": "greenfield-v1:main_n5_run003",
+  "seed_controls_cryptographic_rng": false,
+  "secret": "b830465cf2cdc1929e593484b973c1396b7af19efece42a34885472a891cb3e0",
+  "shares": [
+    "801eb50f57c5f21084de7857a01d9f399ee010b6d8fba61a4443df2b65dfdfb886b6b80156204c8db1aeeda285f5c32f430",
+    "80201029dfacbaca977befd29529af9584cf578dab273132db890ff528cd1c293412aa6939716f068039155c0b4eef65b95",
+    "803ea526886948da13a59785353430ac1a34c43f1613bbf486e3354d055954ada132a5c776becf6f1ba370aafc13bd81c45",
+    "8040db692e142da917dc86801f9fde77199aa586cd4a93a9c90cb9b1932cec6429ef00bd31b377a02e5fd9d2dc62037fb0d",
+    "805e6e6679d1dfb99302fed7bf82414e87613634707e196f94668309beb8a4e0bccf0f137e7cd7c9b5c5bc242b3f519bcdd"
+  ],
+  "share_generation_time_ms": 0.8467,
+  "dataset_digest_sha256": "6892bd3328d678c55067498ea637d6eced4297f0f23d93c7706b9cf8b0dc10cc"
+}

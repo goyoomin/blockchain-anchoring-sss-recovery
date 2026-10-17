@@ -1,0 +1,41 @@
+{
+  "freeze_version": "MDPI_HARDHAT_V1",
+  "freeze_date": "2026-08-09T16:25:49.263Z",
+  "status": "FROZEN",
+  "source_of_truth_policy": "Original Raw Data and Main dataset paths remain authoritative; no Raw Data copies were created.",
+  "main": {
+    "rows": 420,
+    "datasets": 210,
+    "raw_file": "results/main/main_raw.csv",
+    "sha256": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+    "matches_previous_sha256": true,
+    "successes": 420,
+    "failures": 0
+  },
+  "recovery_validation": {
+    "rows": 420,
+    "datasets": 210,
+    "raw_file": "results/recovery_validation/recovery_counterbalanced_raw.csv",
+    "sha256": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+    "successes": 420,
+    "failures": 0
+  },
+  "total_primary_mechanism_executions": 840,
+  "final_metric_sources": {
+    "gas": "MAIN",
+    "recovery_time": "RECOVERY_COUNTERBALANCED",
+    "transaction_count": "MAIN",
+    "success_rate": "ACTUAL_RAW_SUCCESS_FAILURE"
+  },
+  "environment_match": true,
+  "datasets_verified": true,
+  "freeze_validation": true,
+  "hashed_file_count": 702,
+  "git": {
+    "repository": false,
+    "git_commit": null,
+    "git_branch": null,
+    "git_status_clean": null,
+    "status_entries": []
+  }
+}

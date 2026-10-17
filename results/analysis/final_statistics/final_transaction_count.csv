@@ -1,0 +1,8 @@
+n,per_share_transaction_count,merkle_root_transaction_count,transaction_reduction,transaction_reduction_percent
+5,5,1,4,80
+10,10,1,9,90
+20,20,1,19,95
+50,50,1,49,98
+100,100,1,99,99
+500,500,1,499,99.8
+1000,1000,1,999,99.9

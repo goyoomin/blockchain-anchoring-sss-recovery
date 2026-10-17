@@ -1,0 +1,25 @@
+{
+  "valid": true,
+  "status": "VALID",
+  "checked_at": "2026-08-09T16:25:18.247Z",
+  "source_files_valid": true,
+  "figure_values_match_final_statistics": true,
+  "table_values_match_final_statistics": true,
+  "gas_source_valid": true,
+  "recovery_source_valid": true,
+  "n_values_valid": true,
+  "paired_ci_notes_valid": true,
+  "figure_count": 8,
+  "figure_render_count": 16,
+  "figure_files_by_format": {
+    "png": 16,
+    "svg": 16,
+    "pdf": 16
+  },
+  "table_count": 6,
+  "png_300_dpi_valid": true,
+  "vector_formats_valid": true,
+  "grayscale_redundant_encoding_valid": true,
+  "render_bounds_strategy": "Fixed viewBox, explicit margins, external legends, and exact viewport rendering",
+  "errors": []
+}

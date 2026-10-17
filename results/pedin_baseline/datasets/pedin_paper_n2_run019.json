@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "dataset_id": "pedin_paper_n2_run019",
+  "grid_type": "PAPER_GRID",
+  "n": 2,
+  "k": 2,
+  "synthetic_recovery_secret": "0x05af59c17a4a93afc65ac6bc9b715bdca3ab72df2fdefb512e231b90e90b2644",
+  "synthetic_recovery_address_pbk": "0x95998d1dc24DA178b41261d3E6aBB0c2F7662811",
+  "shares": [
+    "801a740ab20ff62dffa7355a685fbbe3654d5080e28361d4b69fd165e50fbae150d6818533fdb6e43c20ab0c1d2349586a5",
+    "80253804b40e3c4a3e9e6aa5117eb616cabb8fcf70ee2e43e3eb0c2eb795bd2c76328d03002daa3966a6618b2144e2a7b9b"
+  ],
+  "sss": {
+    "scheme": "SHAMIR_SECRET_SHARING",
+    "library": "secrets.js-grempe",
+    "library_version": "2.0.0",
+    "field_bits": 8,
+    "threshold_policy": "K_EQUALS_N_OVER_2_PLUS_1_FOR_EVEN_N",
+    "share_serialization": "CANONICAL_LIBRARY_ENCODED_STRING_UTF8"
+  },
+  "generated_at": "2026-08-11T17:10:53.061Z",
+  "synthetic_research_key": true,
+  "provenance": {
+    "baseline": "PEDIN_2023_PAPER_GUIDED_MERKLE_SHA256_SETUP",
+    "source": "independently generated for this controlled experiment",
+    "real_user_wallet": false,
+    "reused_from_frozen_main": false
+  },
+  "dataset_digest_sha256": "6e77f76d8774de82140895a48f10ad08abe52013fe89d83b216162df67b2541a"
+}

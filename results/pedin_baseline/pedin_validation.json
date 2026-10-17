@@ -1,0 +1,34 @@
+{
+  "valid": true,
+  "status": "VALID",
+  "validated_at": "2026-08-11T17:14:53.354Z",
+  "paper_grid_rows": 390,
+  "common_grid_rows": 120,
+  "total_rows": 510,
+  "data": {
+    "valid": true,
+    "expected_rows": 510,
+    "actual_rows": 510,
+    "unique_dataset_ids": 510,
+    "success_count": 510,
+    "failure_count": 0,
+    "errors": []
+  },
+  "environment_match": true,
+  "frozen_integrity": {
+    "valid": true,
+    "main": {
+      "path": "results/main/main_raw.csv",
+      "sha256": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+      "expected": "a81e49c2a3a2730a5157aa39352c0ff28a00fe283fde630db89ef47827dfaf5d",
+      "valid": true
+    },
+    "recovery": {
+      "path": "results/recovery_validation/recovery_counterbalanced_raw.csv",
+      "sha256": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+      "expected": "bc5d4499d383faf405547ad4fdda013796f2bc73fc6efe39ef386a0fc03df942",
+      "valid": true
+    }
+  },
+  "errors": []
+}

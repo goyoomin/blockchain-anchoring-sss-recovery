@@ -1,0 +1,8 @@
+n,per_share_mean_gas,per_share_gas_sd,merkle_root_mean_gas,merkle_root_gas_sd,gas_reduction_percent,per_share_recovery_mean_ms,per_share_recovery_sd_ms,merkle_root_recovery_mean_ms,merkle_root_recovery_sd_ms,recovery_reduction_percent,paired_mean_delta_ms,paired_ci95_lower_ms,paired_ci95_upper_ms,recovery_ci_excludes_zero,per_share_transactions,merkle_root_transactions,per_share_success_rate_percent,merkle_root_success_rate_percent
+5,237340,20.358,46540,5.811,80.39,2.621,0.820,2.372,0.215,9.52,0.249,-0.063,0.562,false,5,1,100.0,100.0
+10,474705,32.803,46540,4.549,90.20,4.517,0.429,4.425,0.560,2.02,0.091,-0.208,0.390,false,10,1,100.0,100.0
+20,949374,126.451,46538,6.560,95.10,8.709,0.664,7.852,1.008,9.84,0.857,0.473,1.242,true,20,1,100.0,100.0
+50,2373473,344.579,46536,11.245,98.04,19.648,0.914,17.699,1.684,9.92,1.949,1.227,2.671,true,50,1,100.0,100.0
+100,4746793,670.066,46536,7.557,99.02,38.342,2.747,35.434,4.386,7.58,2.908,0.977,4.839,true,100,1,100.0,100.0
+500,23738155,2259.982,46538,6.673,99.80,218.151,9.319,204.454,11.985,6.28,13.697,8.115,19.278,true,500,1,100.0,100.0
+1000,47479747,4133.555,46539,7.000,99.90,459.289,16.201,453.737,28.081,1.21,5.552,-4.253,15.357,false,1000,1,100.0,100.0
